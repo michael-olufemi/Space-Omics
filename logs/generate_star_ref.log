@@ -1,0 +1,20 @@
+Removing zlib-ng version 2.1.6
+Removing star version 2.7.11a
+Loading zlib-ng version 2.1.6
+Loading star version 2.7.11a
+	STAR --runThreadN 16 --runMode genomeGenerate --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --genomeFastaFiles /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/Mus_musculus.GRCm39.dna.primary_assembly.fa --sjdbGTFfile /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/Mus_musculus.GRCm39.107.gtf --sjdbOverhang 100 --limitGenomeGenerateRAM 550000000000
+	STAR version: 2.7.11a   compiled: 2024-10-28T19:00:44+00:00 :/tmp/package-maintainer/spack-stage/spack-stage-star-2.7.11a-6qkvgfhippyk2x5qhkiwaesbgse7qahd/spack-src/source
+Feb 23 02:56:19 ..... started STAR run
+Feb 23 02:56:19 ... starting to generate Genome files
+Feb 23 02:57:17 ..... processing annotations GTF
+Feb 23 02:57:42 ... starting to sort Suffix Array. This may take a long time...
+Feb 23 02:57:53 ... sorting Suffix Array chunks and saving them to disk...
+Feb 23 03:03:37 ... loading chunks from disk, packing SA...
+Feb 23 03:04:59 ... finished generating suffix array
+Feb 23 03:04:59 ... generating Suffix Array index
+Feb 23 03:08:05 ... completed Suffix Array index
+Feb 23 03:08:05 ..... inserting junctions into the genome indices
+Feb 23 03:10:39 ... writing Genome to disk ...
+Feb 23 03:10:43 ... writing Suffix Array to disk ...
+Feb 23 03:11:13 ... writing SAindex to disk
+Feb 23 03:11:16 ..... finished successfully

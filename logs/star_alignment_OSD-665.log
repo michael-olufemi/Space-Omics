@@ -1,0 +1,1072 @@
+Missing FASTQ files for OSD-665. Skipping.
+Missing FASTQ files for OSD-665. Skipping.
+==== Processing Dataset: OSD-665 ====
+Dataset Directory: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665
+total 414323271
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5542 Feb 24 16:15 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6275207022 Feb 24 18:02 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5753 Feb 24 18:02 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6733936913 Feb 24 18:02 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5635 Feb 24 19:06 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7792133731 Feb 24 21:20 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5819 Feb 24 21:20 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 8372403910 Feb 24 21:20 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5514 Feb 24 22:13 GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6486351546 Feb 25 00:05 GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5723 Feb 25 00:05 GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6985068038 Feb 25 00:05 GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5543 Feb 25 01:01 GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6916084504 Feb 25 03:00 GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5736 Feb 25 03:00 GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7448477122 Feb 25 03:00 GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5524 Feb 25 03:53 GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6476286521 Feb 25 05:44 GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5725 Feb 25 05:44 GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6929926820 Feb 25 05:44 GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5542 Feb 25 06:39 GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6725176611 Feb 25 08:35 GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5742 Feb 25 08:35 GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7239308621 Feb 25 08:35 GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5543 Feb 25 09:22 GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 5801344547 Feb 25 11:02 GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5741 Feb 25 11:02 GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6219141722 Feb 25 11:02 GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5622 Feb 25 11:57 GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6862711615 Feb 25 13:56 GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5797 Feb 25 13:56 GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7409010079 Feb 25 13:56 GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5628 Feb 25 14:52 GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6870520090 Feb 25 16:51 GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5826 Feb 25 16:51 GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7397761343 Feb 25 16:51 GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5546 Feb 25 17:45 GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6659901757 Feb 25 19:40 GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5723 Feb 25 19:40 GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7170400234 Feb 25 19:40 GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5699 Feb 25 20:33 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6460872702 Feb 25 22:24 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5867 Feb 25 22:24 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6951573568 Feb 25 22:24 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5548 Feb 25 23:06 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 5105310606 Feb 26 00:34 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5737 Feb 26 00:34 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 5480433883 Feb 26 00:34 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5598 Feb 26 01:23 GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6054916636 Feb 26 03:07 GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5772 Feb 26 03:07 GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6505640940 Feb 26 03:07 GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5593 Feb 26 04:02 GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6729750733 Feb 26 05:59 GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5785 Feb 26 05:59 GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7274289945 Feb 26 05:59 GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5559 Feb 26 06:55 GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6845233557 Feb 26 08:53 GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5755 Feb 26 08:53 GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7384172908 Feb 26 08:53 GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5574 Feb 26 09:46 GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6532628293 Feb 26 11:39 GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5770 Feb 26 11:39 GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7030645847 Feb 26 11:39 GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5643 Feb 26 12:29 GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6142572681 Feb 26 14:15 GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5821 Feb 26 14:15 GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6621156225 Feb 26 14:15 GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5587 Feb 26 15:15 GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7412666523 Feb 26 17:22 GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5781 Feb 26 17:22 GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7955212531 Feb 26 17:22 GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5592 Feb 26 18:30 GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 8246828018 Feb 26 20:53 GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5763 Feb 26 20:53 GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 8930005112 Feb 26 20:53 GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5588 Feb 26 21:52 GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7262068858 Feb 26 23:57 GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5762 Feb 26 23:57 GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7815656155 Feb 26 23:57 GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5560 Feb 27 00:52 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6769756245 Feb 27 02:50 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5751 Feb 27 02:50 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7332381171 Feb 27 02:50 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5539 Feb 27 03:40 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6270543000 Feb 27 05:29 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5749 Feb 27 05:29 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6773492388 Feb 27 05:29 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5582 Feb 27 06:27 GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7211035742 Feb 27 08:31 GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5775 Feb 27 08:31 GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7692814546 Feb 27 08:31 GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5528 Feb 27 09:29 GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7078035782 Feb 27 11:32 GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5736 Feb 27 11:32 GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7673907471 Feb 27 11:32 GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5566 Feb 27 12:33 GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7419176220 Feb 27 14:41 GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5754 Feb 27 14:41 GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7989034682 Feb 27 14:41 GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5552 Feb 27 15:44 GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7588931410 Feb 27 17:55 GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5743 Feb 27 17:56 GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 8149570544 Feb 27 17:55 GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5501 Feb 27 18:51 GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6777022579 Feb 27 20:48 GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5719 Feb 27 20:48 GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7302405572 Feb 27 20:48 GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5624 Feb 27 21:44 GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6788797918 Feb 27 23:42 GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5790 Feb 27 23:42 GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7324632540 Feb 27 23:42 GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5655 Feb 28 00:41 GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7177152609 Feb 28 02:45 GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5837 Feb 28 02:45 GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7691017084 Feb 28 02:45 GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5587 Feb 28 03:46 GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7505008054 Feb 28 05:55 GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5772 Feb 28 05:55 GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 8043900679 Feb 28 05:55 GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R2_raw_val_2.fq.gz
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+==== Processing Dataset: OSD-665 ====
+Dataset Directory: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665
+total 414323271
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5542 Feb 24 16:15 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6275207022 Feb 24 18:02 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5753 Feb 24 18:02 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6733936913 Feb 24 18:02 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5635 Feb 24 19:06 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7792133731 Feb 24 21:20 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5819 Feb 24 21:20 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 8372403910 Feb 24 21:20 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5514 Feb 24 22:13 GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6486351546 Feb 25 00:05 GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5723 Feb 25 00:05 GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6985068038 Feb 25 00:05 GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5543 Feb 25 01:01 GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6916084504 Feb 25 03:00 GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5736 Feb 25 03:00 GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7448477122 Feb 25 03:00 GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5524 Feb 25 03:53 GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6476286521 Feb 25 05:44 GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5725 Feb 25 05:44 GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6929926820 Feb 25 05:44 GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5542 Feb 25 06:39 GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6725176611 Feb 25 08:35 GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5742 Feb 25 08:35 GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7239308621 Feb 25 08:35 GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5543 Feb 25 09:22 GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 5801344547 Feb 25 11:02 GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5741 Feb 25 11:02 GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6219141722 Feb 25 11:02 GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5622 Feb 25 11:57 GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6862711615 Feb 25 13:56 GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5797 Feb 25 13:56 GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7409010079 Feb 25 13:56 GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5628 Feb 25 14:52 GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6870520090 Feb 25 16:51 GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5826 Feb 25 16:51 GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7397761343 Feb 25 16:51 GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5546 Feb 25 17:45 GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6659901757 Feb 25 19:40 GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5723 Feb 25 19:40 GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7170400234 Feb 25 19:40 GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5699 Feb 25 20:33 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6460872702 Feb 25 22:24 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5867 Feb 25 22:24 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6951573568 Feb 25 22:24 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5548 Feb 25 23:06 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 5105310606 Feb 26 00:34 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5737 Feb 26 00:34 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 5480433883 Feb 26 00:34 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5598 Feb 26 01:23 GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6054916636 Feb 26 03:07 GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5772 Feb 26 03:07 GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6505640940 Feb 26 03:07 GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5593 Feb 26 04:02 GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6729750733 Feb 26 05:59 GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5785 Feb 26 05:59 GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7274289945 Feb 26 05:59 GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5559 Feb 26 06:55 GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6845233557 Feb 26 08:53 GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5755 Feb 26 08:53 GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7384172908 Feb 26 08:53 GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5574 Feb 26 09:46 GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6532628293 Feb 26 11:39 GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5770 Feb 26 11:39 GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7030645847 Feb 26 11:39 GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5643 Feb 26 12:29 GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6142572681 Feb 26 14:15 GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5821 Feb 26 14:15 GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6621156225 Feb 26 14:15 GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5587 Feb 26 15:15 GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7412666523 Feb 26 17:22 GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5781 Feb 26 17:22 GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7955212531 Feb 26 17:22 GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5592 Feb 26 18:30 GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 8246828018 Feb 26 20:53 GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5763 Feb 26 20:53 GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 8930005112 Feb 26 20:53 GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5588 Feb 26 21:52 GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7262068858 Feb 26 23:57 GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5762 Feb 26 23:57 GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7815656155 Feb 26 23:57 GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5560 Feb 27 00:52 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6769756245 Feb 27 02:50 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5751 Feb 27 02:50 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7332381171 Feb 27 02:50 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5539 Feb 27 03:40 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6270543000 Feb 27 05:29 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5749 Feb 27 05:29 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6773492388 Feb 27 05:29 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5582 Feb 27 06:27 GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7211035742 Feb 27 08:31 GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5775 Feb 27 08:31 GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7692814546 Feb 27 08:31 GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5528 Feb 27 09:29 GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7078035782 Feb 27 11:32 GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5736 Feb 27 11:32 GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7673907471 Feb 27 11:32 GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5566 Feb 27 12:33 GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7419176220 Feb 27 14:41 GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5754 Feb 27 14:41 GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7989034682 Feb 27 14:41 GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5552 Feb 27 15:44 GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7588931410 Feb 27 17:55 GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5743 Feb 27 17:56 GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 8149570544 Feb 27 17:55 GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5501 Feb 27 18:51 GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6777022579 Feb 27 20:48 GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5719 Feb 27 20:48 GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7302405572 Feb 27 20:48 GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5624 Feb 27 21:44 GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6788797918 Feb 27 23:42 GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5790 Feb 27 23:42 GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7324632540 Feb 27 23:42 GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5655 Feb 28 00:41 GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7177152609 Feb 28 02:45 GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5837 Feb 28 02:45 GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7691017084 Feb 28 02:45 GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5587 Feb 28 03:46 GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7505008054 Feb 28 05:55 GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5772 Feb 28 05:55 GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 8043900679 Feb 28 05:55 GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R2_raw_val_2.fq.gz
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-665.
+==== Processing Dataset: OSD-665 ====
+Dataset Directory: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665
+total 414323271
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5542 Feb 24 16:15 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6275207022 Feb 24 18:02 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5753 Feb 24 18:02 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6733936913 Feb 24 18:02 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5635 Feb 24 19:06 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7792133731 Feb 24 21:20 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5819 Feb 24 21:20 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 8372403910 Feb 24 21:20 GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5514 Feb 24 22:13 GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6486351546 Feb 25 00:05 GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5723 Feb 25 00:05 GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6985068038 Feb 25 00:05 GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5543 Feb 25 01:01 GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6916084504 Feb 25 03:00 GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5736 Feb 25 03:00 GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7448477122 Feb 25 03:00 GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5524 Feb 25 03:53 GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6476286521 Feb 25 05:44 GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5725 Feb 25 05:44 GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6929926820 Feb 25 05:44 GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5542 Feb 25 06:39 GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6725176611 Feb 25 08:35 GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5742 Feb 25 08:35 GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7239308621 Feb 25 08:35 GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5543 Feb 25 09:22 GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 5801344547 Feb 25 11:02 GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5741 Feb 25 11:02 GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6219141722 Feb 25 11:02 GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5622 Feb 25 11:57 GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6862711615 Feb 25 13:56 GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5797 Feb 25 13:56 GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7409010079 Feb 25 13:56 GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5628 Feb 25 14:52 GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6870520090 Feb 25 16:51 GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5826 Feb 25 16:51 GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7397761343 Feb 25 16:51 GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5546 Feb 25 17:45 GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6659901757 Feb 25 19:40 GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5723 Feb 25 19:40 GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7170400234 Feb 25 19:40 GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5699 Feb 25 20:33 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6460872702 Feb 25 22:24 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5867 Feb 25 22:24 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6951573568 Feb 25 22:24 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5548 Feb 25 23:06 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 5105310606 Feb 26 00:34 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5737 Feb 26 00:34 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 5480433883 Feb 26 00:34 GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5598 Feb 26 01:23 GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6054916636 Feb 26 03:07 GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5772 Feb 26 03:07 GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6505640940 Feb 26 03:07 GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5593 Feb 26 04:02 GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6729750733 Feb 26 05:59 GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5785 Feb 26 05:59 GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7274289945 Feb 26 05:59 GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5559 Feb 26 06:55 GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6845233557 Feb 26 08:53 GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5755 Feb 26 08:53 GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7384172908 Feb 26 08:53 GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5574 Feb 26 09:46 GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6532628293 Feb 26 11:39 GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5770 Feb 26 11:39 GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7030645847 Feb 26 11:39 GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5643 Feb 26 12:29 GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6142572681 Feb 26 14:15 GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5821 Feb 26 14:15 GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6621156225 Feb 26 14:15 GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5587 Feb 26 15:15 GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7412666523 Feb 26 17:22 GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5781 Feb 26 17:22 GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7955212531 Feb 26 17:22 GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5592 Feb 26 18:30 GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 8246828018 Feb 26 20:53 GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5763 Feb 26 20:53 GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 8930005112 Feb 26 20:53 GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5588 Feb 26 21:52 GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7262068858 Feb 26 23:57 GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5762 Feb 26 23:57 GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7815656155 Feb 26 23:57 GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5560 Feb 27 00:52 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6769756245 Feb 27 02:50 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5751 Feb 27 02:50 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7332381171 Feb 27 02:50 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5539 Feb 27 03:40 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6270543000 Feb 27 05:29 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5749 Feb 27 05:29 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6773492388 Feb 27 05:29 GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5582 Feb 27 06:27 GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7211035742 Feb 27 08:31 GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5775 Feb 27 08:31 GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7692814546 Feb 27 08:31 GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5528 Feb 27 09:29 GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7078035782 Feb 27 11:32 GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5736 Feb 27 11:32 GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7673907471 Feb 27 11:32 GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5566 Feb 27 12:33 GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7419176220 Feb 27 14:41 GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5754 Feb 27 14:41 GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7989034682 Feb 27 14:41 GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5552 Feb 27 15:44 GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7588931410 Feb 27 17:55 GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5743 Feb 27 17:56 GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 8149570544 Feb 27 17:55 GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5501 Feb 27 18:51 GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6777022579 Feb 27 20:48 GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5719 Feb 27 20:48 GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7302405572 Feb 27 20:48 GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5624 Feb 27 21:44 GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 6788797918 Feb 27 23:42 GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5790 Feb 27 23:42 GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7324632540 Feb 27 23:42 GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5655 Feb 28 00:41 GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7177152609 Feb 28 02:45 GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5837 Feb 28 02:45 GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7691017084 Feb 28 02:45 GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5587 Feb 28 03:46 GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 7505008054 Feb 28 05:55 GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu       5772 Feb 28 05:55 GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 8043900679 Feb 28 05:55 GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R2_raw_val_2.fq.gz
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/OSD-665_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Feb 28 20:38:57 ..... started STAR run
+Feb 28 20:38:57 ..... loading genome
+Feb 28 20:40:49 ..... started 1st pass mapping
+Feb 28 21:42:43 ..... finished 1st pass mapping
+Feb 28 21:42:44 ..... inserting junctions into the genome indices
+Feb 28 21:44:25 ..... started mapping
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 00:26:18 ..... started STAR run
+Mar 01 00:26:18 ..... loading genome
+Mar 01 00:26:31 ..... started 1st pass mapping
+Mar 01 01:07:02 ..... finished 1st pass mapping
+Mar 01 01:07:02 ..... inserting junctions into the genome indices
+Mar 01 01:08:15 ..... started mapping
+Mar 01 05:54:26 ..... finished mapping
+Mar 01 05:54:28 ..... started sorting BAM
+Mar 01 05:56:18 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 05:56:28 ..... started STAR run
+Mar 01 05:56:28 ..... loading genome
+Mar 01 05:56:41 ..... started 1st pass mapping
+Mar 01 06:40:42 ..... finished 1st pass mapping
+Mar 01 06:40:42 ..... inserting junctions into the genome indices
+Mar 01 06:41:59 ..... started mapping
+Mar 01 13:10:28 ..... finished mapping
+Mar 01 13:10:30 ..... started sorting BAM
+Mar 01 13:12:51 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F2
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F2_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 13:13:04 ..... started STAR run
+Mar 01 13:13:04 ..... loading genome
+Mar 01 13:13:18 ..... started 1st pass mapping
+Mar 01 13:45:05 ..... finished 1st pass mapping
+Mar 01 13:45:06 ..... inserting junctions into the genome indices
+Mar 01 13:46:17 ..... started mapping
+Mar 01 17:47:09 ..... finished mapping
+Mar 01 17:47:12 ..... started sorting BAM
+Mar 01 17:49:11 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F2.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F3
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F3_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 17:49:22 ..... started STAR run
+Mar 01 17:49:22 ..... loading genome
+Mar 01 17:49:36 ..... started 1st pass mapping
+Mar 01 18:29:02 ..... finished 1st pass mapping
+Mar 01 18:29:03 ..... inserting junctions into the genome indices
+Mar 01 18:30:16 ..... started mapping
+Mar 02 00:41:06 ..... finished mapping
+Mar 02 00:41:09 ..... started sorting BAM
+Mar 02 00:43:11 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F3.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F4
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F4_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 02 00:43:22 ..... started STAR run
+Mar 02 00:43:22 ..... loading genome
+Mar 02 00:43:36 ..... started 1st pass mapping
+Mar 02 01:17:22 ..... finished 1st pass mapping
+Mar 02 01:17:23 ..... inserting junctions into the genome indices
+Mar 02 01:18:30 ..... started mapping
+Mar 02 04:24:16 ..... finished mapping
+Mar 02 04:24:19 ..... started sorting BAM
+Mar 02 04:26:14 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F4.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F5
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F5_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 02 04:26:25 ..... started STAR run
+Mar 02 04:26:25 ..... loading genome
+Mar 02 04:26:39 ..... started 1st pass mapping
+Mar 02 05:08:43 ..... finished 1st pass mapping
+Mar 02 05:08:43 ..... inserting junctions into the genome indices
+Mar 02 05:09:55 ..... started mapping
+Mar 02 11:45:04 ..... finished mapping
+Mar 02 11:45:07 ..... started sorting BAM
+Mar 02 11:47:08 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F5.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F6
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F6_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 02 11:47:19 ..... started STAR run
+Mar 02 11:47:19 ..... loading genome
+Mar 02 11:47:32 ..... started 1st pass mapping
+Mar 02 12:19:51 ..... finished 1st pass mapping
+Mar 02 12:19:52 ..... inserting junctions into the genome indices
+Mar 02 12:21:04 ..... started mapping
+Mar 02 16:32:49 ..... finished mapping
+Mar 02 16:32:52 ..... started sorting BAM
+Mar 02 16:34:32 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F6.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F7
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F7_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 02 16:34:41 ..... started STAR run
+Mar 02 16:34:41 ..... loading genome
+Mar 02 16:34:55 ..... started 1st pass mapping
+Mar 02 17:12:02 ..... finished 1st pass mapping
+Mar 02 17:12:02 ..... inserting junctions into the genome indices
+Mar 02 17:13:13 ..... started mapping
+Mar 02 21:39:02 ..... finished mapping
+Mar 02 21:39:05 ..... started sorting BAM
+Mar 02 21:41:10 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F7.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F8
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F8_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 02 21:41:21 ..... started STAR run
+Mar 02 21:41:21 ..... loading genome
+Mar 02 21:41:35 ..... started 1st pass mapping
+Mar 02 22:23:43 ..... finished 1st pass mapping
+Mar 02 22:23:43 ..... inserting junctions into the genome indices
+Mar 02 22:25:01 ..... started mapping
+Mar 03 03:20:27 ..... finished mapping
+Mar 03 03:20:30 ..... started sorting BAM
+Mar 03 03:22:35 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F8.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F9
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F9_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 03 03:22:46 ..... started STAR run
+Mar 03 03:22:46 ..... loading genome
+Mar 03 03:22:59 ..... started 1st pass mapping
+Mar 03 03:55:42 ..... finished 1st pass mapping
+Mar 03 03:55:42 ..... inserting junctions into the genome indices
+Mar 03 03:56:58 ..... started mapping
+Mar 03 08:26:12 ..... finished mapping
+Mar 03 08:26:14 ..... started sorting BAM
+Mar 03 08:28:09 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F9.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 03 08:28:20 ..... started STAR run
+Mar 03 08:28:20 ..... loading genome
+Mar 03 08:28:33 ..... started 1st pass mapping
+Mar 03 09:04:02 ..... finished 1st pass mapping
+Mar 03 09:04:03 ..... inserting junctions into the genome indices
+Mar 03 09:05:11 ..... started mapping
+Mar 03 15:26:24 ..... finished mapping
+Mar 03 15:26:26 ..... started sorting BAM
+Mar 03 15:28:20 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 03 15:28:31 ..... started STAR run
+Mar 03 15:28:31 ..... loading genome
+Mar 03 15:28:44 ..... started 1st pass mapping
+Mar 03 15:56:49 ..... finished 1st pass mapping
+Mar 03 15:56:50 ..... inserting junctions into the genome indices
+Mar 03 15:58:02 ..... started mapping
+Mar 03 19:18:57 ..... finished mapping
+Mar 03 19:18:59 ..... started sorting BAM
+Mar 03 19:20:30 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G2
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G2_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G2_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 03 19:20:39 ..... started STAR run
+Mar 03 19:20:39 ..... loading genome
+Mar 03 19:20:52 ..... started 1st pass mapping
+Mar 03 19:53:12 ..... finished 1st pass mapping
+Mar 03 19:53:12 ..... inserting junctions into the genome indices
+Mar 03 19:54:21 ..... started mapping
+Mar 04 00:33:40 ..... finished mapping
+Mar 04 00:33:43 ..... started sorting BAM
+Mar 04 00:35:31 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G2.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G3
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G3_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G3_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 04 00:35:41 ..... started STAR run
+Mar 04 00:35:41 ..... loading genome
+Mar 04 00:35:55 ..... started 1st pass mapping
+Mar 04 01:17:28 ..... finished 1st pass mapping
+Mar 04 01:17:28 ..... inserting junctions into the genome indices
+Mar 04 01:18:38 ..... started mapping
+Mar 04 06:31:27 ..... finished mapping
+Mar 04 06:31:30 ..... started sorting BAM
+Mar 04 06:33:31 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G3.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G4
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G4_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G4_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 04 06:33:42 ..... started STAR run
+Mar 04 06:33:43 ..... loading genome
+Mar 04 06:33:56 ..... started 1st pass mapping
+Mar 04 07:15:11 ..... finished 1st pass mapping
+Mar 04 07:15:11 ..... inserting junctions into the genome indices
+Mar 04 07:16:20 ..... started mapping
+Mar 04 12:06:39 ..... finished mapping
+Mar 04 12:06:42 ..... started sorting BAM
+Mar 04 12:08:43 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G4.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G5
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G5_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G5_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 04 12:08:55 ..... started STAR run
+Mar 04 12:08:55 ..... loading genome
+Mar 04 12:09:08 ..... started 1st pass mapping
+Mar 04 12:42:18 ..... finished 1st pass mapping
+Mar 04 12:42:19 ..... inserting junctions into the genome indices
+Mar 04 12:43:28 ..... started mapping
+Mar 04 15:45:52 ..... finished mapping
+Mar 04 15:45:54 ..... started sorting BAM
+Mar 04 15:47:51 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G5.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G6
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G6_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G6_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 04 15:48:03 ..... started STAR run
+Mar 04 15:48:03 ..... loading genome
+Mar 04 15:48:16 ..... started 1st pass mapping
+Mar 04 16:20:58 ..... finished 1st pass mapping
+Mar 04 16:20:58 ..... inserting junctions into the genome indices
+Mar 04 16:22:10 ..... started mapping
+Mar 04 21:27:01 ..... finished mapping
+Mar 04 21:27:03 ..... started sorting BAM
+Mar 04 21:28:51 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G6.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G7
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G7_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G7_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 04 21:29:02 ..... started STAR run
+Mar 04 21:29:02 ..... loading genome
+Mar 04 21:29:16 ..... started 1st pass mapping
+Mar 04 22:10:28 ..... finished 1st pass mapping
+Mar 04 22:10:28 ..... inserting junctions into the genome indices
+Mar 04 22:11:38 ..... started mapping
+Mar 05 03:36:31 ..... finished mapping
+Mar 05 03:36:34 ..... started sorting BAM
+Mar 05 03:38:55 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G7.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G8
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G8_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G8_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 05 03:39:09 ..... started STAR run
+Mar 05 03:39:09 ..... loading genome
+Mar 05 03:39:22 ..... started 1st pass mapping
+Mar 05 04:24:27 ..... finished 1st pass mapping
+Mar 05 04:24:28 ..... inserting junctions into the genome indices
+Mar 05 04:25:45 ..... started mapping
+Mar 05 11:12:07 ..... finished mapping
+Mar 05 11:12:09 ..... started sorting BAM
+Mar 05 11:14:34 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G8.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G9
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G9_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G9_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 05 11:14:48 ..... started STAR run
+Mar 05 11:14:48 ..... loading genome
+Mar 05 11:15:01 ..... started 1st pass mapping
+Mar 05 11:51:24 ..... finished 1st pass mapping
+Mar 05 11:51:24 ..... inserting junctions into the genome indices
+Mar 05 11:52:33 ..... started mapping
+Mar 05 16:19:55 ..... finished mapping
+Mar 05 16:19:58 ..... started sorting BAM
+Mar 05 16:22:11 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G9.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 05 16:22:24 ..... started STAR run
+Mar 05 16:22:24 ..... loading genome
+Mar 05 16:22:37 ..... started 1st pass mapping
+Mar 05 17:01:00 ..... finished 1st pass mapping
+Mar 05 17:01:01 ..... inserting junctions into the genome indices
+Mar 05 17:02:11 ..... started mapping
+Mar 05 21:37:24 ..... finished mapping
+Mar 05 21:37:26 ..... started sorting BAM
+Mar 05 21:39:32 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 05 21:39:44 ..... started STAR run
+Mar 05 21:39:44 ..... loading genome
+Mar 05 21:39:57 ..... started 1st pass mapping
+Mar 05 22:20:34 ..... finished 1st pass mapping
+Mar 05 22:20:35 ..... inserting junctions into the genome indices
+Mar 05 22:21:45 ..... started mapping
+Mar 06 03:37:17 ..... finished mapping
+Mar 06 03:37:20 ..... started sorting BAM
+Mar 06 03:39:11 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V2
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 06 03:39:22 ..... started STAR run
+Mar 06 03:39:22 ..... loading genome
+Mar 06 03:39:36 ..... started 1st pass mapping
+Mar 06 04:20:21 ..... finished 1st pass mapping
+Mar 06 04:20:22 ..... inserting junctions into the genome indices
+Mar 06 04:21:32 ..... started mapping
+Mar 06 09:07:54 ..... finished mapping
+Mar 06 09:07:57 ..... started sorting BAM
+Mar 06 09:10:03 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V2.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V3
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V3_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 06 09:10:16 ..... started STAR run
+Mar 06 09:10:16 ..... loading genome
+Mar 06 09:10:29 ..... started 1st pass mapping
+Mar 06 09:54:11 ..... finished 1st pass mapping
+Mar 06 09:54:12 ..... inserting junctions into the genome indices
+Mar 06 09:55:24 ..... started mapping
+Mar 06 15:31:07 ..... finished mapping
+Mar 06 15:31:09 ..... started sorting BAM
+Mar 06 15:33:14 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V3.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V4
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V4_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 06 15:33:26 ..... started STAR run
+Mar 06 15:33:26 ..... loading genome
+Mar 06 15:33:39 ..... started 1st pass mapping
+Mar 06 16:15:38 ..... finished 1st pass mapping
+Mar 06 16:15:38 ..... inserting junctions into the genome indices
+Mar 06 16:16:55 ..... started mapping
+Mar 06 20:41:30 ..... finished mapping
+Mar 06 20:41:32 ..... started sorting BAM
+Mar 06 20:43:42 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V4.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V5
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V5_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 06 20:43:55 ..... started STAR run
+Mar 06 20:43:55 ..... loading genome
+Mar 06 20:44:08 ..... started 1st pass mapping
+Mar 06 21:24:06 ..... finished 1st pass mapping
+Mar 06 21:24:07 ..... inserting junctions into the genome indices
+Mar 06 21:25:23 ..... started mapping
+Mar 07 02:22:44 ..... finished mapping
+Mar 07 02:22:47 ..... started sorting BAM
+Mar 07 02:25:00 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V5.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V6
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V6_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 07 02:25:12 ..... started STAR run
+Mar 07 02:25:12 ..... loading genome
+Mar 07 02:25:26 ..... started 1st pass mapping
+Mar 07 03:11:02 ..... finished 1st pass mapping
+Mar 07 03:11:02 ..... inserting junctions into the genome indices
+Mar 07 03:12:13 ..... started mapping
+Mar 07 08:25:15 ..... finished mapping
+Mar 07 08:25:18 ..... started sorting BAM
+Mar 07 08:27:22 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V6.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V7
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V7_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 07 08:27:34 ..... started STAR run
+Mar 07 08:27:34 ..... loading genome
+Mar 07 08:27:47 ..... started 1st pass mapping
+Mar 07 09:04:04 ..... finished 1st pass mapping
+Mar 07 09:04:04 ..... inserting junctions into the genome indices
+Mar 07 09:05:14 ..... started mapping
+Mar 07 12:41:39 ..... finished mapping
+Mar 07 12:41:42 ..... started sorting BAM
+Mar 07 12:43:39 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V7.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V8
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 07 12:43:50 ..... started STAR run
+Mar 07 12:43:50 ..... loading genome
+Mar 07 12:44:04 ..... started 1st pass mapping
+Mar 07 13:25:49 ..... finished 1st pass mapping
+Mar 07 13:25:50 ..... inserting junctions into the genome indices
+Mar 07 13:26:58 ..... started mapping
+Mar 07 20:02:17 ..... finished mapping
+Mar 07 20:02:19 ..... started sorting BAM
+Mar 07 20:04:27 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V8.
+Processing sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V9
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V9_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 07 20:04:40 ..... started STAR run
+Mar 07 20:04:40 ..... loading genome
+Mar 07 20:04:53 ..... started 1st pass mapping
+Mar 07 20:48:48 ..... finished 1st pass mapping
+Mar 07 20:48:49 ..... inserting junctions into the genome indices
+Mar 07 20:50:05 ..... started mapping
+Mar 08 02:53:32 ..... finished mapping
+Mar 08 02:53:34 ..... started sorting BAM
+Mar 08 02:55:50 ..... finished successfully
+STAR alignment completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V9.

@@ -1,0 +1,861 @@
+Missing FASTQ files for OSD-532. Skipping.
+Missing FASTQ files for OSD-532. Skipping.
+==== Processing Dataset: OSD-532 ====
+Dataset Directory: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532
+total 2356382
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2619 Feb 24 15:24 GLDS-532_rna-seq_GSM6594643_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  56173095 Feb 24 15:26 GLDS-532_rna-seq_GSM6594643_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2406 Feb 24 15:26 GLDS-532_rna-seq_GSM6594643_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  60512709 Feb 24 15:26 GLDS-532_rna-seq_GSM6594643_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2606 Feb 24 15:27 GLDS-532_rna-seq_GSM6594644_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  73061879 Feb 24 15:28 GLDS-532_rna-seq_GSM6594644_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2406 Feb 24 15:28 GLDS-532_rna-seq_GSM6594644_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  78899753 Feb 24 15:28 GLDS-532_rna-seq_GSM6594644_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2612 Feb 24 15:29 GLDS-532_rna-seq_GSM6594645_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  96401097 Feb 24 15:31 GLDS-532_rna-seq_GSM6594645_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2322 Feb 24 15:31 GLDS-532_rna-seq_GSM6594645_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 103758071 Feb 24 15:31 GLDS-532_rna-seq_GSM6594645_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2604 Feb 24 15:32 GLDS-532_rna-seq_GSM6594646_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  68470675 Feb 24 15:34 GLDS-532_rna-seq_GSM6594646_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2395 Feb 24 15:34 GLDS-532_rna-seq_GSM6594646_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  73800454 Feb 24 15:34 GLDS-532_rna-seq_GSM6594646_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2596 Feb 24 15:34 GLDS-532_rna-seq_GSM6594647_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  39320340 Feb 24 15:35 GLDS-532_rna-seq_GSM6594647_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2314 Feb 24 15:35 GLDS-532_rna-seq_GSM6594647_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  43007431 Feb 24 15:35 GLDS-532_rna-seq_GSM6594647_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2600 Feb 24 15:36 GLDS-532_rna-seq_GSM6594648_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  93938600 Feb 24 15:37 GLDS-532_rna-seq_GSM6594648_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2300 Feb 24 15:37 GLDS-532_rna-seq_GSM6594648_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 101964797 Feb 24 15:37 GLDS-532_rna-seq_GSM6594648_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2610 Feb 24 15:38 GLDS-532_rna-seq_GSM6594649_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  54366984 Feb 24 15:39 GLDS-532_rna-seq_GSM6594649_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2359 Feb 24 15:39 GLDS-532_rna-seq_GSM6594649_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  58894169 Feb 24 15:39 GLDS-532_rna-seq_GSM6594649_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2596 Feb 24 15:39 GLDS-532_rna-seq_GSM6594650_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  52949246 Feb 24 15:41 GLDS-532_rna-seq_GSM6594650_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2362 Feb 24 15:41 GLDS-532_rna-seq_GSM6594650_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  57153229 Feb 24 15:41 GLDS-532_rna-seq_GSM6594650_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2595 Feb 24 15:41 GLDS-532_rna-seq_GSM6594651_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  54638668 Feb 24 15:42 GLDS-532_rna-seq_GSM6594651_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2295 Feb 24 15:42 GLDS-532_rna-seq_GSM6594651_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  58890624 Feb 24 15:42 GLDS-532_rna-seq_GSM6594651_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2595 Feb 24 15:43 GLDS-532_rna-seq_GSM6594652_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 121717968 Feb 24 15:45 GLDS-532_rna-seq_GSM6594652_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2314 Feb 24 15:45 GLDS-532_rna-seq_GSM6594652_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 132730805 Feb 24 15:45 GLDS-532_rna-seq_GSM6594652_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2598 Feb 24 15:45 GLDS-532_rna-seq_GSM6594653_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  82245032 Feb 24 15:47 GLDS-532_rna-seq_GSM6594653_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2363 Feb 24 15:47 GLDS-532_rna-seq_GSM6594653_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  89340807 Feb 24 15:47 GLDS-532_rna-seq_GSM6594653_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2603 Feb 24 15:47 GLDS-532_rna-seq_GSM6594654_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  62463041 Feb 24 15:49 GLDS-532_rna-seq_GSM6594654_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2290 Feb 24 15:49 GLDS-532_rna-seq_GSM6594654_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  67319200 Feb 24 15:49 GLDS-532_rna-seq_GSM6594654_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2604 Feb 24 15:49 GLDS-532_rna-seq_GSM6594655_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  35549440 Feb 24 15:50 GLDS-532_rna-seq_GSM6594655_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2359 Feb 24 15:50 GLDS-532_rna-seq_GSM6594655_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  38268213 Feb 24 15:50 GLDS-532_rna-seq_GSM6594655_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2613 Feb 24 15:51 GLDS-532_rna-seq_GSM6594656_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  66469567 Feb 24 15:52 GLDS-532_rna-seq_GSM6594656_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2412 Feb 24 15:52 GLDS-532_rna-seq_GSM6594656_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  71711155 Feb 24 15:52 GLDS-532_rna-seq_GSM6594656_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2594 Feb 24 15:53 GLDS-532_rna-seq_GSM6594657_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  63377574 Feb 24 15:54 GLDS-532_rna-seq_GSM6594657_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2358 Feb 24 15:54 GLDS-532_rna-seq_GSM6594657_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  68277921 Feb 24 15:54 GLDS-532_rna-seq_GSM6594657_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2608 Feb 24 15:55 GLDS-532_rna-seq_GSM6594658_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  81338027 Feb 24 15:56 GLDS-532_rna-seq_GSM6594658_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2274 Feb 24 15:56 GLDS-532_rna-seq_GSM6594658_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  87481412 Feb 24 15:56 GLDS-532_rna-seq_GSM6594658_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2591 Feb 24 15:56 GLDS-532_rna-seq_GSM6594659_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  56214610 Feb 24 15:58 GLDS-532_rna-seq_GSM6594659_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2348 Feb 24 15:58 GLDS-532_rna-seq_GSM6594659_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  60359009 Feb 24 15:58 GLDS-532_rna-seq_GSM6594659_R2_raw_val_2.fq.gz
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594643_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594643_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594644_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594644_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594645_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594645_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594646_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594646_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594647_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594647_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594648_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594648_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594649_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594649_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594650_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594650_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594651_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594651_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594652_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594652_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594653_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594653_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594654_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594654_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594655_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594655_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594656_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594656_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594657_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594657_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594658_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594658_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594659_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594659_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+==== Processing Dataset: OSD-532 ====
+Dataset Directory: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532
+total 2356382
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2619 Feb 24 15:24 GLDS-532_rna-seq_GSM6594643_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  56173095 Feb 24 15:26 GLDS-532_rna-seq_GSM6594643_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2406 Feb 24 15:26 GLDS-532_rna-seq_GSM6594643_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  60512709 Feb 24 15:26 GLDS-532_rna-seq_GSM6594643_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2606 Feb 24 15:27 GLDS-532_rna-seq_GSM6594644_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  73061879 Feb 24 15:28 GLDS-532_rna-seq_GSM6594644_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2406 Feb 24 15:28 GLDS-532_rna-seq_GSM6594644_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  78899753 Feb 24 15:28 GLDS-532_rna-seq_GSM6594644_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2612 Feb 24 15:29 GLDS-532_rna-seq_GSM6594645_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  96401097 Feb 24 15:31 GLDS-532_rna-seq_GSM6594645_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2322 Feb 24 15:31 GLDS-532_rna-seq_GSM6594645_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 103758071 Feb 24 15:31 GLDS-532_rna-seq_GSM6594645_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2604 Feb 24 15:32 GLDS-532_rna-seq_GSM6594646_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  68470675 Feb 24 15:34 GLDS-532_rna-seq_GSM6594646_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2395 Feb 24 15:34 GLDS-532_rna-seq_GSM6594646_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  73800454 Feb 24 15:34 GLDS-532_rna-seq_GSM6594646_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2596 Feb 24 15:34 GLDS-532_rna-seq_GSM6594647_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  39320340 Feb 24 15:35 GLDS-532_rna-seq_GSM6594647_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2314 Feb 24 15:35 GLDS-532_rna-seq_GSM6594647_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  43007431 Feb 24 15:35 GLDS-532_rna-seq_GSM6594647_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2600 Feb 24 15:36 GLDS-532_rna-seq_GSM6594648_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  93938600 Feb 24 15:37 GLDS-532_rna-seq_GSM6594648_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2300 Feb 24 15:37 GLDS-532_rna-seq_GSM6594648_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 101964797 Feb 24 15:37 GLDS-532_rna-seq_GSM6594648_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2610 Feb 24 15:38 GLDS-532_rna-seq_GSM6594649_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  54366984 Feb 24 15:39 GLDS-532_rna-seq_GSM6594649_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2359 Feb 24 15:39 GLDS-532_rna-seq_GSM6594649_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  58894169 Feb 24 15:39 GLDS-532_rna-seq_GSM6594649_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2596 Feb 24 15:39 GLDS-532_rna-seq_GSM6594650_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  52949246 Feb 24 15:41 GLDS-532_rna-seq_GSM6594650_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2362 Feb 24 15:41 GLDS-532_rna-seq_GSM6594650_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  57153229 Feb 24 15:41 GLDS-532_rna-seq_GSM6594650_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2595 Feb 24 15:41 GLDS-532_rna-seq_GSM6594651_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  54638668 Feb 24 15:42 GLDS-532_rna-seq_GSM6594651_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2295 Feb 24 15:42 GLDS-532_rna-seq_GSM6594651_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  58890624 Feb 24 15:42 GLDS-532_rna-seq_GSM6594651_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2595 Feb 24 15:43 GLDS-532_rna-seq_GSM6594652_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 121717968 Feb 24 15:45 GLDS-532_rna-seq_GSM6594652_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2314 Feb 24 15:45 GLDS-532_rna-seq_GSM6594652_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 132730805 Feb 24 15:45 GLDS-532_rna-seq_GSM6594652_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2598 Feb 24 15:45 GLDS-532_rna-seq_GSM6594653_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  82245032 Feb 24 15:47 GLDS-532_rna-seq_GSM6594653_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2363 Feb 24 15:47 GLDS-532_rna-seq_GSM6594653_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  89340807 Feb 24 15:47 GLDS-532_rna-seq_GSM6594653_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2603 Feb 24 15:47 GLDS-532_rna-seq_GSM6594654_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  62463041 Feb 24 15:49 GLDS-532_rna-seq_GSM6594654_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2290 Feb 24 15:49 GLDS-532_rna-seq_GSM6594654_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  67319200 Feb 24 15:49 GLDS-532_rna-seq_GSM6594654_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2604 Feb 24 15:49 GLDS-532_rna-seq_GSM6594655_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  35549440 Feb 24 15:50 GLDS-532_rna-seq_GSM6594655_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2359 Feb 24 15:50 GLDS-532_rna-seq_GSM6594655_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  38268213 Feb 24 15:50 GLDS-532_rna-seq_GSM6594655_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2613 Feb 24 15:51 GLDS-532_rna-seq_GSM6594656_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  66469567 Feb 24 15:52 GLDS-532_rna-seq_GSM6594656_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2412 Feb 24 15:52 GLDS-532_rna-seq_GSM6594656_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  71711155 Feb 24 15:52 GLDS-532_rna-seq_GSM6594656_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2594 Feb 24 15:53 GLDS-532_rna-seq_GSM6594657_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  63377574 Feb 24 15:54 GLDS-532_rna-seq_GSM6594657_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2358 Feb 24 15:54 GLDS-532_rna-seq_GSM6594657_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  68277921 Feb 24 15:54 GLDS-532_rna-seq_GSM6594657_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2608 Feb 24 15:55 GLDS-532_rna-seq_GSM6594658_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  81338027 Feb 24 15:56 GLDS-532_rna-seq_GSM6594658_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2274 Feb 24 15:56 GLDS-532_rna-seq_GSM6594658_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  87481412 Feb 24 15:56 GLDS-532_rna-seq_GSM6594658_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2591 Feb 24 15:56 GLDS-532_rna-seq_GSM6594659_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  56214610 Feb 24 15:58 GLDS-532_rna-seq_GSM6594659_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2348 Feb 24 15:58 GLDS-532_rna-seq_GSM6594659_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  60359009 Feb 24 15:58 GLDS-532_rna-seq_GSM6594659_R2_raw_val_2.fq.gz
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594643_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594643_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594644_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594644_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594645_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594645_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594646_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594646_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594647_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594647_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594648_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594648_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594649_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594649_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594650_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594650_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594651_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594651_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594652_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594652_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594653_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594653_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594654_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594654_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594655_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594655_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594656_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594656_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594657_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594657_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594658_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594658_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594659_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594659_R2_raw_val_2.fq.gz
+STAR alignment completed for OSD-532.
+==== Processing Dataset: OSD-532 ====
+Dataset Directory: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532
+total 2356382
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2619 Feb 24 15:24 GLDS-532_rna-seq_GSM6594643_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  56173095 Feb 24 15:26 GLDS-532_rna-seq_GSM6594643_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2406 Feb 24 15:26 GLDS-532_rna-seq_GSM6594643_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  60512709 Feb 24 15:26 GLDS-532_rna-seq_GSM6594643_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2606 Feb 24 15:27 GLDS-532_rna-seq_GSM6594644_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  73061879 Feb 24 15:28 GLDS-532_rna-seq_GSM6594644_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2406 Feb 24 15:28 GLDS-532_rna-seq_GSM6594644_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  78899753 Feb 24 15:28 GLDS-532_rna-seq_GSM6594644_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2612 Feb 24 15:29 GLDS-532_rna-seq_GSM6594645_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  96401097 Feb 24 15:31 GLDS-532_rna-seq_GSM6594645_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2322 Feb 24 15:31 GLDS-532_rna-seq_GSM6594645_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 103758071 Feb 24 15:31 GLDS-532_rna-seq_GSM6594645_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2604 Feb 24 15:32 GLDS-532_rna-seq_GSM6594646_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  68470675 Feb 24 15:34 GLDS-532_rna-seq_GSM6594646_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2395 Feb 24 15:34 GLDS-532_rna-seq_GSM6594646_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  73800454 Feb 24 15:34 GLDS-532_rna-seq_GSM6594646_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2596 Feb 24 15:34 GLDS-532_rna-seq_GSM6594647_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  39320340 Feb 24 15:35 GLDS-532_rna-seq_GSM6594647_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2314 Feb 24 15:35 GLDS-532_rna-seq_GSM6594647_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  43007431 Feb 24 15:35 GLDS-532_rna-seq_GSM6594647_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2600 Feb 24 15:36 GLDS-532_rna-seq_GSM6594648_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  93938600 Feb 24 15:37 GLDS-532_rna-seq_GSM6594648_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2300 Feb 24 15:37 GLDS-532_rna-seq_GSM6594648_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 101964797 Feb 24 15:37 GLDS-532_rna-seq_GSM6594648_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2610 Feb 24 15:38 GLDS-532_rna-seq_GSM6594649_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  54366984 Feb 24 15:39 GLDS-532_rna-seq_GSM6594649_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2359 Feb 24 15:39 GLDS-532_rna-seq_GSM6594649_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  58894169 Feb 24 15:39 GLDS-532_rna-seq_GSM6594649_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2596 Feb 24 15:39 GLDS-532_rna-seq_GSM6594650_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  52949246 Feb 24 15:41 GLDS-532_rna-seq_GSM6594650_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2362 Feb 24 15:41 GLDS-532_rna-seq_GSM6594650_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  57153229 Feb 24 15:41 GLDS-532_rna-seq_GSM6594650_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2595 Feb 24 15:41 GLDS-532_rna-seq_GSM6594651_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  54638668 Feb 24 15:42 GLDS-532_rna-seq_GSM6594651_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2295 Feb 24 15:42 GLDS-532_rna-seq_GSM6594651_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  58890624 Feb 24 15:42 GLDS-532_rna-seq_GSM6594651_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2595 Feb 24 15:43 GLDS-532_rna-seq_GSM6594652_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 121717968 Feb 24 15:45 GLDS-532_rna-seq_GSM6594652_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2314 Feb 24 15:45 GLDS-532_rna-seq_GSM6594652_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu 132730805 Feb 24 15:45 GLDS-532_rna-seq_GSM6594652_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2598 Feb 24 15:45 GLDS-532_rna-seq_GSM6594653_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  82245032 Feb 24 15:47 GLDS-532_rna-seq_GSM6594653_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2363 Feb 24 15:47 GLDS-532_rna-seq_GSM6594653_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  89340807 Feb 24 15:47 GLDS-532_rna-seq_GSM6594653_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2603 Feb 24 15:47 GLDS-532_rna-seq_GSM6594654_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  62463041 Feb 24 15:49 GLDS-532_rna-seq_GSM6594654_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2290 Feb 24 15:49 GLDS-532_rna-seq_GSM6594654_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  67319200 Feb 24 15:49 GLDS-532_rna-seq_GSM6594654_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2604 Feb 24 15:49 GLDS-532_rna-seq_GSM6594655_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  35549440 Feb 24 15:50 GLDS-532_rna-seq_GSM6594655_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2359 Feb 24 15:50 GLDS-532_rna-seq_GSM6594655_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  38268213 Feb 24 15:50 GLDS-532_rna-seq_GSM6594655_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2613 Feb 24 15:51 GLDS-532_rna-seq_GSM6594656_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  66469567 Feb 24 15:52 GLDS-532_rna-seq_GSM6594656_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2412 Feb 24 15:52 GLDS-532_rna-seq_GSM6594656_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  71711155 Feb 24 15:52 GLDS-532_rna-seq_GSM6594656_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2594 Feb 24 15:53 GLDS-532_rna-seq_GSM6594657_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  63377574 Feb 24 15:54 GLDS-532_rna-seq_GSM6594657_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2358 Feb 24 15:54 GLDS-532_rna-seq_GSM6594657_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  68277921 Feb 24 15:54 GLDS-532_rna-seq_GSM6594657_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2608 Feb 24 15:55 GLDS-532_rna-seq_GSM6594658_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  81338027 Feb 24 15:56 GLDS-532_rna-seq_GSM6594658_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2274 Feb 24 15:56 GLDS-532_rna-seq_GSM6594658_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  87481412 Feb 24 15:56 GLDS-532_rna-seq_GSM6594658_R2_raw_val_2.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2591 Feb 24 15:56 GLDS-532_rna-seq_GSM6594659_R1_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  56214610 Feb 24 15:58 GLDS-532_rna-seq_GSM6594659_R1_raw_val_1.fq.gz
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu      2348 Feb 24 15:58 GLDS-532_rna-seq_GSM6594659_R2_raw.fastq.gz_trimming_report.txt
+-rw-rw-r-- 1 michael_olufemi_student_uml_edu michael_olufemi_student_uml_edu  60359009 Feb 24 15:58 GLDS-532_rna-seq_GSM6594659_R2_raw_val_2.fq.gz
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594643_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594643_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/OSD-532_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594643_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594643_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Feb 28 20:38:57 ..... started STAR run
+Feb 28 20:38:57 ..... loading genome
+Feb 28 20:40:49 ..... started 1st pass mapping
+Feb 28 20:41:02 ..... finished 1st pass mapping
+Feb 28 20:41:02 ..... inserting junctions into the genome indices
+Feb 28 20:42:25 ..... started mapping
+Feb 28 20:42:46 ..... finished mapping
+Feb 28 20:42:48 ..... started sorting BAM
+Feb 28 20:42:57 ..... finished successfully
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594644_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594644_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/OSD-532_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594644_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594644_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Feb 28 20:42:58 ..... started STAR run
+Feb 28 20:42:58 ..... loading genome
+Feb 28 20:43:12 ..... started 1st pass mapping
+Feb 28 20:43:30 ..... finished 1st pass mapping
+Feb 28 20:43:31 ..... inserting junctions into the genome indices
+Feb 28 20:44:54 ..... started mapping
+Feb 28 20:45:21 ..... finished mapping
+Feb 28 20:45:23 ..... started sorting BAM
+Feb 28 20:45:33 ..... finished successfully
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594645_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594645_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/OSD-532_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594645_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594645_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Feb 28 20:45:35 ..... started STAR run
+Feb 28 20:45:35 ..... loading genome
+Feb 28 20:45:49 ..... started 1st pass mapping
+Feb 28 20:46:07 ..... finished 1st pass mapping
+Feb 28 20:46:08 ..... inserting junctions into the genome indices
+Feb 28 20:47:31 ..... started mapping
+Feb 28 20:48:04 ..... finished mapping
+Feb 28 20:48:06 ..... started sorting BAM
+Feb 28 20:48:19 ..... finished successfully
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594646_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594646_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/OSD-532_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594646_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594646_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Feb 28 20:48:21 ..... started STAR run
+Feb 28 20:48:21 ..... loading genome
+Feb 28 20:48:35 ..... started 1st pass mapping
+Feb 28 20:48:53 ..... finished 1st pass mapping
+Feb 28 20:48:53 ..... inserting junctions into the genome indices
+Feb 28 20:50:16 ..... started mapping
+Feb 28 20:50:44 ..... finished mapping
+Feb 28 20:50:46 ..... started sorting BAM
+Feb 28 20:50:58 ..... finished successfully
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594647_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594647_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/OSD-532_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594647_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594647_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Feb 28 20:51:00 ..... started STAR run
+Feb 28 20:51:00 ..... loading genome
+Feb 28 20:51:14 ..... started 1st pass mapping
+Feb 28 20:51:27 ..... finished 1st pass mapping
+Feb 28 20:51:28 ..... inserting junctions into the genome indices
+Feb 28 20:52:51 ..... started mapping
+Feb 28 20:53:10 ..... finished mapping
+Feb 28 20:53:12 ..... started sorting BAM
+Feb 28 20:53:20 ..... finished successfully
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594648_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594648_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/OSD-532_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594648_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594648_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Feb 28 20:53:21 ..... started STAR run
+Feb 28 20:53:21 ..... loading genome
+Feb 28 20:53:36 ..... started 1st pass mapping
+Feb 28 20:53:52 ..... finished 1st pass mapping
+Feb 28 20:53:53 ..... inserting junctions into the genome indices
+Feb 28 20:55:16 ..... started mapping
+Feb 28 20:55:44 ..... finished mapping
+Feb 28 20:55:45 ..... started sorting BAM
+Feb 28 20:56:12 ..... finished successfully
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594649_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594649_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/OSD-532_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594649_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594649_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Feb 28 20:56:14 ..... started STAR run
+Feb 28 20:56:15 ..... loading genome
+Feb 28 20:56:29 ..... started 1st pass mapping
+Feb 28 20:56:43 ..... finished 1st pass mapping
+Feb 28 20:56:43 ..... inserting junctions into the genome indices
+Feb 28 20:58:06 ..... started mapping
+Feb 28 20:58:28 ..... finished mapping
+Feb 28 20:58:30 ..... started sorting BAM
+Feb 28 20:58:41 ..... finished successfully
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594650_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594650_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/OSD-532_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594650_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594650_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Feb 28 20:58:42 ..... started STAR run
+Feb 28 20:58:43 ..... loading genome
+Feb 28 20:58:57 ..... started 1st pass mapping
+Feb 28 20:59:09 ..... finished 1st pass mapping
+Feb 28 20:59:10 ..... inserting junctions into the genome indices
+Feb 28 21:00:33 ..... started mapping
+Feb 28 21:00:53 ..... finished mapping
+Feb 28 21:00:54 ..... started sorting BAM
+Feb 28 21:01:05 ..... finished successfully
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594651_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594651_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/OSD-532_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594651_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594651_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Feb 28 21:01:07 ..... started STAR run
+Feb 28 21:01:07 ..... loading genome
+Feb 28 21:01:21 ..... started 1st pass mapping
+Feb 28 21:01:33 ..... finished 1st pass mapping
+Feb 28 21:01:33 ..... inserting junctions into the genome indices
+Feb 28 21:02:56 ..... started mapping
+Feb 28 21:03:15 ..... finished mapping
+Feb 28 21:03:16 ..... started sorting BAM
+Feb 28 21:03:28 ..... finished successfully
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594652_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594652_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/OSD-532_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594652_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594652_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Feb 28 21:03:29 ..... started STAR run
+Feb 28 21:03:30 ..... loading genome
+Feb 28 21:03:44 ..... started 1st pass mapping
+Feb 28 21:04:04 ..... finished 1st pass mapping
+Feb 28 21:04:05 ..... inserting junctions into the genome indices
+Feb 28 21:05:28 ..... started mapping
+Feb 28 21:06:13 ..... finished mapping
+Feb 28 21:06:14 ..... started sorting BAM
+Feb 28 21:06:46 ..... finished successfully
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594653_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594653_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/OSD-532_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594653_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594653_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Feb 28 21:06:48 ..... started STAR run
+Feb 28 21:06:49 ..... loading genome
+Feb 28 21:07:03 ..... started 1st pass mapping
+Feb 28 21:07:20 ..... finished 1st pass mapping
+Feb 28 21:07:20 ..... inserting junctions into the genome indices
+Feb 28 21:08:43 ..... started mapping
+Feb 28 21:09:12 ..... finished mapping
+Feb 28 21:09:13 ..... started sorting BAM
+Feb 28 21:09:35 ..... finished successfully
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594654_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594654_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/OSD-532_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594654_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594654_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Feb 28 21:09:37 ..... started STAR run
+Feb 28 21:09:37 ..... loading genome
+Feb 28 21:09:51 ..... started 1st pass mapping
+Feb 28 21:10:08 ..... finished 1st pass mapping
+Feb 28 21:10:08 ..... inserting junctions into the genome indices
+Feb 28 21:11:31 ..... started mapping
+Feb 28 21:11:57 ..... finished mapping
+Feb 28 21:11:59 ..... started sorting BAM
+Feb 28 21:12:10 ..... finished successfully
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594655_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594655_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/OSD-532_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594655_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594655_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Feb 28 21:12:12 ..... started STAR run
+Feb 28 21:12:12 ..... loading genome
+Feb 28 21:12:26 ..... started 1st pass mapping
+Feb 28 21:12:39 ..... finished 1st pass mapping
+Feb 28 21:12:40 ..... inserting junctions into the genome indices
+Feb 28 21:14:03 ..... started mapping
+Feb 28 21:14:23 ..... finished mapping
+Feb 28 21:14:24 ..... started sorting BAM
+Feb 28 21:14:28 ..... finished successfully
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594656_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594656_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/OSD-532_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594656_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594656_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Feb 28 21:14:29 ..... started STAR run
+Feb 28 21:14:30 ..... loading genome
+Feb 28 21:14:44 ..... started 1st pass mapping
+Feb 28 21:15:01 ..... finished 1st pass mapping
+Feb 28 21:15:01 ..... inserting junctions into the genome indices
+Feb 28 21:16:24 ..... started mapping
+Feb 28 21:16:52 ..... finished mapping
+Feb 28 21:16:53 ..... started sorting BAM
+Feb 28 21:17:04 ..... finished successfully
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594657_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594657_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/OSD-532_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594657_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594657_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Feb 28 21:17:05 ..... started STAR run
+Feb 28 21:17:05 ..... loading genome
+Feb 28 21:17:20 ..... started 1st pass mapping
+Feb 28 21:17:35 ..... finished 1st pass mapping
+Feb 28 21:17:36 ..... inserting junctions into the genome indices
+Feb 28 21:19:00 ..... started mapping
+Feb 28 21:19:28 ..... finished mapping
+Feb 28 21:19:30 ..... started sorting BAM
+Feb 28 21:19:45 ..... finished successfully
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594658_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594658_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/OSD-532_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594658_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594658_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Feb 28 21:19:47 ..... started STAR run
+Feb 28 21:19:47 ..... loading genome
+Feb 28 21:20:01 ..... started 1st pass mapping
+Feb 28 21:20:18 ..... finished 1st pass mapping
+Feb 28 21:20:18 ..... inserting junctions into the genome indices
+Feb 28 21:21:42 ..... started mapping
+Feb 28 21:22:10 ..... finished mapping
+Feb 28 21:22:11 ..... started sorting BAM
+Feb 28 21:22:27 ..... finished successfully
+STAR alignment completed for OSD-532.
+Detected Paired-End Files:
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594659_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594659_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/OSD-532_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594659_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594659_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Feb 28 21:22:29 ..... started STAR run
+Feb 28 21:22:29 ..... loading genome
+Feb 28 21:22:43 ..... started 1st pass mapping
+Feb 28 21:22:55 ..... finished 1st pass mapping
+Feb 28 21:22:56 ..... inserting junctions into the genome indices
+Feb 28 21:24:18 ..... started mapping
+Feb 28 21:24:38 ..... finished mapping
+Feb 28 21:24:40 ..... started sorting BAM
+Feb 28 21:24:49 ..... finished successfully
+STAR alignment completed for OSD-532.
+Processing sample: GLDS-532_rna-seq_GSM6594643
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594643_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594643_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/GLDS-532_rna-seq_GSM6594643_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594643_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594643_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 00:25:40 ..... started STAR run
+Mar 01 00:25:40 ..... loading genome
+Mar 01 00:26:30 ..... started 1st pass mapping
+Mar 01 00:26:39 ..... finished 1st pass mapping
+Mar 01 00:26:39 ..... inserting junctions into the genome indices
+Mar 01 00:27:32 ..... started mapping
+Mar 01 00:27:46 ..... finished mapping
+Mar 01 00:27:48 ..... started sorting BAM
+Mar 01 00:27:55 ..... finished successfully
+STAR alignment completed for GLDS-532_rna-seq_GSM6594643.
+Processing sample: GLDS-532_rna-seq_GSM6594644
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594644_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594644_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/GLDS-532_rna-seq_GSM6594644_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594644_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594644_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 00:27:56 ..... started STAR run
+Mar 01 00:27:56 ..... loading genome
+Mar 01 00:28:09 ..... started 1st pass mapping
+Mar 01 00:28:21 ..... finished 1st pass mapping
+Mar 01 00:28:21 ..... inserting junctions into the genome indices
+Mar 01 00:29:14 ..... started mapping
+Mar 01 00:29:33 ..... finished mapping
+Mar 01 00:29:35 ..... started sorting BAM
+Mar 01 00:29:42 ..... finished successfully
+STAR alignment completed for GLDS-532_rna-seq_GSM6594644.
+Processing sample: GLDS-532_rna-seq_GSM6594645
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594645_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594645_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/GLDS-532_rna-seq_GSM6594645_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594645_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594645_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 00:29:43 ..... started STAR run
+Mar 01 00:29:43 ..... loading genome
+Mar 01 00:29:56 ..... started 1st pass mapping
+Mar 01 00:30:09 ..... finished 1st pass mapping
+Mar 01 00:30:09 ..... inserting junctions into the genome indices
+Mar 01 00:31:03 ..... started mapping
+Mar 01 00:31:26 ..... finished mapping
+Mar 01 00:31:28 ..... started sorting BAM
+Mar 01 00:31:37 ..... finished successfully
+STAR alignment completed for GLDS-532_rna-seq_GSM6594645.
+Processing sample: GLDS-532_rna-seq_GSM6594646
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594646_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594646_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/GLDS-532_rna-seq_GSM6594646_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594646_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594646_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 00:31:39 ..... started STAR run
+Mar 01 00:31:39 ..... loading genome
+Mar 01 00:31:52 ..... started 1st pass mapping
+Mar 01 00:32:04 ..... finished 1st pass mapping
+Mar 01 00:32:04 ..... inserting junctions into the genome indices
+Mar 01 00:32:57 ..... started mapping
+Mar 01 00:33:17 ..... finished mapping
+Mar 01 00:33:19 ..... started sorting BAM
+Mar 01 00:33:27 ..... finished successfully
+STAR alignment completed for GLDS-532_rna-seq_GSM6594646.
+Processing sample: GLDS-532_rna-seq_GSM6594647
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594647_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594647_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/GLDS-532_rna-seq_GSM6594647_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594647_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594647_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 00:33:29 ..... started STAR run
+Mar 01 00:33:29 ..... loading genome
+Mar 01 00:33:41 ..... started 1st pass mapping
+Mar 01 00:33:50 ..... finished 1st pass mapping
+Mar 01 00:33:51 ..... inserting junctions into the genome indices
+Mar 01 00:34:43 ..... started mapping
+Mar 01 00:34:57 ..... finished mapping
+Mar 01 00:34:59 ..... started sorting BAM
+Mar 01 00:35:04 ..... finished successfully
+STAR alignment completed for GLDS-532_rna-seq_GSM6594647.
+Processing sample: GLDS-532_rna-seq_GSM6594648
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594648_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594648_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/GLDS-532_rna-seq_GSM6594648_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594648_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594648_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 00:35:05 ..... started STAR run
+Mar 01 00:35:05 ..... loading genome
+Mar 01 00:35:18 ..... started 1st pass mapping
+Mar 01 00:35:30 ..... finished 1st pass mapping
+Mar 01 00:35:31 ..... inserting junctions into the genome indices
+Mar 01 00:36:25 ..... started mapping
+Mar 01 00:36:44 ..... finished mapping
+Mar 01 00:36:46 ..... started sorting BAM
+Mar 01 00:37:05 ..... finished successfully
+STAR alignment completed for GLDS-532_rna-seq_GSM6594648.
+Processing sample: GLDS-532_rna-seq_GSM6594649
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594649_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594649_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/GLDS-532_rna-seq_GSM6594649_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594649_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594649_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 00:37:07 ..... started STAR run
+Mar 01 00:37:07 ..... loading genome
+Mar 01 00:37:19 ..... started 1st pass mapping
+Mar 01 00:37:29 ..... finished 1st pass mapping
+Mar 01 00:37:29 ..... inserting junctions into the genome indices
+Mar 01 00:38:22 ..... started mapping
+Mar 01 00:38:37 ..... finished mapping
+Mar 01 00:38:39 ..... started sorting BAM
+Mar 01 00:38:47 ..... finished successfully
+STAR alignment completed for GLDS-532_rna-seq_GSM6594649.
+Processing sample: GLDS-532_rna-seq_GSM6594650
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594650_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594650_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/GLDS-532_rna-seq_GSM6594650_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594650_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594650_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 00:38:49 ..... started STAR run
+Mar 01 00:38:49 ..... loading genome
+Mar 01 00:39:01 ..... started 1st pass mapping
+Mar 01 00:39:10 ..... finished 1st pass mapping
+Mar 01 00:39:10 ..... inserting junctions into the genome indices
+Mar 01 00:40:03 ..... started mapping
+Mar 01 00:40:17 ..... finished mapping
+Mar 01 00:40:19 ..... started sorting BAM
+Mar 01 00:40:26 ..... finished successfully
+STAR alignment completed for GLDS-532_rna-seq_GSM6594650.
+Processing sample: GLDS-532_rna-seq_GSM6594651
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594651_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594651_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/GLDS-532_rna-seq_GSM6594651_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594651_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594651_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 00:40:28 ..... started STAR run
+Mar 01 00:40:28 ..... loading genome
+Mar 01 00:40:40 ..... started 1st pass mapping
+Mar 01 00:40:48 ..... finished 1st pass mapping
+Mar 01 00:40:49 ..... inserting junctions into the genome indices
+Mar 01 00:41:42 ..... started mapping
+Mar 01 00:41:55 ..... finished mapping
+Mar 01 00:41:57 ..... started sorting BAM
+Mar 01 00:42:05 ..... finished successfully
+STAR alignment completed for GLDS-532_rna-seq_GSM6594651.
+Processing sample: GLDS-532_rna-seq_GSM6594652
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594652_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594652_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/GLDS-532_rna-seq_GSM6594652_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594652_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594652_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 00:42:06 ..... started STAR run
+Mar 01 00:42:06 ..... loading genome
+Mar 01 00:42:19 ..... started 1st pass mapping
+Mar 01 00:42:33 ..... finished 1st pass mapping
+Mar 01 00:42:34 ..... inserting junctions into the genome indices
+Mar 01 00:43:27 ..... started mapping
+Mar 01 00:43:59 ..... finished mapping
+Mar 01 00:44:01 ..... started sorting BAM
+Mar 01 00:44:25 ..... finished successfully
+STAR alignment completed for GLDS-532_rna-seq_GSM6594652.
+Processing sample: GLDS-532_rna-seq_GSM6594653
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594653_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594653_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/GLDS-532_rna-seq_GSM6594653_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594653_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594653_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 00:44:28 ..... started STAR run
+Mar 01 00:44:28 ..... loading genome
+Mar 01 00:44:41 ..... started 1st pass mapping
+Mar 01 00:44:52 ..... finished 1st pass mapping
+Mar 01 00:44:53 ..... inserting junctions into the genome indices
+Mar 01 00:45:46 ..... started mapping
+Mar 01 00:46:06 ..... finished mapping
+Mar 01 00:46:08 ..... started sorting BAM
+Mar 01 00:46:23 ..... finished successfully
+STAR alignment completed for GLDS-532_rna-seq_GSM6594653.
+Processing sample: GLDS-532_rna-seq_GSM6594654
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594654_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594654_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/GLDS-532_rna-seq_GSM6594654_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594654_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594654_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 00:46:25 ..... started STAR run
+Mar 01 00:46:25 ..... loading genome
+Mar 01 00:46:38 ..... started 1st pass mapping
+Mar 01 00:46:49 ..... finished 1st pass mapping
+Mar 01 00:46:49 ..... inserting junctions into the genome indices
+Mar 01 00:47:42 ..... started mapping
+Mar 01 00:48:00 ..... finished mapping
+Mar 01 00:48:02 ..... started sorting BAM
+Mar 01 00:48:10 ..... finished successfully
+STAR alignment completed for GLDS-532_rna-seq_GSM6594654.
+Processing sample: GLDS-532_rna-seq_GSM6594655
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594655_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594655_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/GLDS-532_rna-seq_GSM6594655_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594655_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594655_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 00:48:11 ..... started STAR run
+Mar 01 00:48:11 ..... loading genome
+Mar 01 00:48:24 ..... started 1st pass mapping
+Mar 01 00:48:33 ..... finished 1st pass mapping
+Mar 01 00:48:33 ..... inserting junctions into the genome indices
+Mar 01 00:49:26 ..... started mapping
+Mar 01 00:49:40 ..... finished mapping
+Mar 01 00:49:42 ..... started sorting BAM
+Mar 01 00:49:45 ..... finished successfully
+STAR alignment completed for GLDS-532_rna-seq_GSM6594655.
+Processing sample: GLDS-532_rna-seq_GSM6594656
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594656_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594656_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/GLDS-532_rna-seq_GSM6594656_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594656_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594656_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 00:49:46 ..... started STAR run
+Mar 01 00:49:46 ..... loading genome
+Mar 01 00:49:58 ..... started 1st pass mapping
+Mar 01 00:50:10 ..... finished 1st pass mapping
+Mar 01 00:50:10 ..... inserting junctions into the genome indices
+Mar 01 00:51:03 ..... started mapping
+Mar 01 00:51:22 ..... finished mapping
+Mar 01 00:51:24 ..... started sorting BAM
+Mar 01 00:51:32 ..... finished successfully
+STAR alignment completed for GLDS-532_rna-seq_GSM6594656.
+Processing sample: GLDS-532_rna-seq_GSM6594657
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594657_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594657_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/GLDS-532_rna-seq_GSM6594657_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594657_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594657_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 00:51:33 ..... started STAR run
+Mar 01 00:51:33 ..... loading genome
+Mar 01 00:51:46 ..... started 1st pass mapping
+Mar 01 00:51:57 ..... finished 1st pass mapping
+Mar 01 00:51:57 ..... inserting junctions into the genome indices
+Mar 01 00:52:50 ..... started mapping
+Mar 01 00:53:10 ..... finished mapping
+Mar 01 00:53:12 ..... started sorting BAM
+Mar 01 00:53:22 ..... finished successfully
+STAR alignment completed for GLDS-532_rna-seq_GSM6594657.
+Processing sample: GLDS-532_rna-seq_GSM6594658
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594658_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594658_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/GLDS-532_rna-seq_GSM6594658_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594658_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594658_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 00:53:24 ..... started STAR run
+Mar 01 00:53:24 ..... loading genome
+Mar 01 00:53:37 ..... started 1st pass mapping
+Mar 01 00:53:48 ..... finished 1st pass mapping
+Mar 01 00:53:49 ..... inserting junctions into the genome indices
+Mar 01 00:54:42 ..... started mapping
+Mar 01 00:55:01 ..... finished mapping
+Mar 01 00:55:03 ..... started sorting BAM
+Mar 01 00:55:14 ..... finished successfully
+STAR alignment completed for GLDS-532_rna-seq_GSM6594658.
+Processing sample: GLDS-532_rna-seq_GSM6594659
+R1 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594659_R1_raw_val_1.fq.gz
+R2 File: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594659_R2_raw_val_2.fq.gz
+	/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source/STAR --twopassMode Basic --limitBAMsortRAM 65000000000 --genomeDir /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 32 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-532/GLDS-532_rna-seq_GSM6594659_ --readFilesIn /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594659_R1_raw_val_1.fq.gz /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/trimmed/OSD-532/GLDS-532_rna-seq_GSM6594659_R2_raw_val_2.fq.gz
+	STAR version: 2.7.11b   compiled: 2025-02-28T17:02:42+00:00 :/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR-2.7.11b/source
+Mar 01 00:55:16 ..... started STAR run
+Mar 01 00:55:16 ..... loading genome
+Mar 01 00:55:28 ..... started 1st pass mapping
+Mar 01 00:55:37 ..... finished 1st pass mapping
+Mar 01 00:55:37 ..... inserting junctions into the genome indices
+Mar 01 00:56:30 ..... started mapping
+Mar 01 00:56:45 ..... finished mapping
+Mar 01 00:56:47 ..... started sorting BAM
+Mar 01 00:56:54 ..... finished successfully
+STAR alignment completed for GLDS-532_rna-seq_GSM6594659.

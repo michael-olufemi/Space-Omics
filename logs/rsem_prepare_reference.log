@@ -1,0 +1,27 @@
+Removing conda
+Loading conda
+rsem-extract-reference-transcripts /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome/RSEM_ref 0 /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/Mus_musculus.GRCm39.107.gtf None 0 /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/Mus_musculus.GRCm39.dna.primary_assembly.fa
+Parsed 200000 lines
+Parsed 400000 lines
+Parsed 600000 lines
+Parsed 800000 lines
+Parsed 1000000 lines
+Parsed 1200000 lines
+Parsed 1400000 lines
+Parsed 1600000 lines
+Parsed 1800000 lines
+Parsing gtf File is done!
+/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/Mus_musculus.GRCm39.dna.primary_assembly.fa is processed!
+149478 transcripts are extracted.
+Extracting sequences is done!
+Group File is generated!
+Transcript Information File is generated!
+Chromosome List File is generated!
+Extracted Sequences File is generated!
+
+rsem-preref /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome/RSEM_ref.transcripts.fa 1 /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome/RSEM_ref
+Refs.makeRefs finished!
+Refs.saveRefs finished!
+/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome/RSEM_ref.idx.fa is generated!
+/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_genome/RSEM_ref.n2g.idx.fa is generated!
+

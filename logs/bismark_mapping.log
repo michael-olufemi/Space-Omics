@@ -1,0 +1,562 @@
+loading intel-tbb version 2020.3
+loading berkeley-db version 18.1.40
+loading bzip2 version 1.0.8
+loading ncurses version 6.2
+loading readline version 8.1
+loading gdbm version 1.19
+loading zlib version 1.2.11
+loading perl version 5.34.0
+loading libmd version 1.0.3
+loading libbsd version 0.11.3
+loading expat version 2.4.1
+loading libiconv version 1.16
+loading xz version 5.2.5
+loading libxml2 version 2.9.12
+loading tar version 1.34
+loading gettext version 0.21
+loading libffi version 3.3
+loading openssl version 1.1.1l
+loading sqlite version 3.36.0
+loading util-linux-uuid version 2.36.2
+loading python version 3.8.12
+loading bowtie2 version 2.4.2
+loading curl version 7.79.0
+loading gzip version 1.12
+loading libdeflate version 1.10
+loading htslib version 1.9
+unloading libmd version 1.0.3
+unloading libbsd version 0.11.3
+unloading expat version 2.4.1
+unloading libxml2 version 2.9.12
+unloading libiconv version 1.16
+unloading tar version 1.34
+unloading gettext version 0.21
+unloading libffi version 3.3
+unloading sqlite version 3.36.0
+unloading util-linux-uuid version 2.36.2
+unloading python version 3.8.12
+loading libmd version 1.0.3
+loading libbsd version 0.11.3
+loading expat version 2.4.1
+loading libiconv version 1.16
+loading libxml2 version 2.9.12
+loading tar version 1.34
+loading gettext version 0.21
+loading libffi version 3.3
+loading sqlite version 3.36.0
+loading util-linux-uuid version 2.36.2
+loading python version 2.7.18
+loading samtools version 1.9
+-------------------------------------------------------------------------------
+The following dependent module(s) are not currently loaded: python/3.8.12 (required by: bowtie2/2.4.2+py3.8.12)
+-------------------------------------------------------------------------------
+
+The following have been reloaded with a version change:
+  1) python/3.8.12 => python/2.7.18
+
+Bowtie 2 seems to be working fine (tested command 'bowtie2 --version' [2.4.2])
+Output format is BAM (default)
+Alignments will be written out in BAM format. Samtools found here: '/modules/spack/opt/spack/linux-ubuntu20.04-x86_64/gcc-9.4.0/samtools-1.9-olp66ogfusdot7fvrezrszskzdhdhj6n/bin/samtools'
+Reference genome folder provided is /scratch/workspace/michael_olufemi_student_uml_edu-nanopore/space_omics/ref_genome/	(absolute path is '/scratch/workspace/michael_olufemi_student_uml_edu-nanopore/space_omics/ref_genome/)'
+The Bowtie 2 index of the C->T converted genome seems to be faulty or non-existant ('BS_CT.1.bt2'). Please run the bismark_genome_preparation before running Bismark
+The Bowtie 2 index of the C->T converted genome seems to be faulty or non-existant ('BS_CT.2.bt2'). Please run the bismark_genome_preparation before running Bismark
+The Bowtie 2 index of the C->T converted genome seems to be faulty or non-existant ('BS_CT.3.bt2'). Please run the bismark_genome_preparation before running Bismark
+The Bowtie 2 index of the C->T converted genome seems to be faulty or non-existant ('BS_CT.4.bt2'). Please run the bismark_genome_preparation before running Bismark
+The Bowtie 2 index of the C->T converted genome seems to be faulty or non-existant ('BS_CT.rev.1.bt2'). Please run the bismark_genome_preparation before running Bismark
+The Bowtie 2 index of the C->T converted genome seems to be faulty or non-existant ('BS_CT.rev.2.bt2'). Please run the bismark_genome_preparation before running Bismark
+The Bowtie 2 index of the G->A converted genome seems to be faulty or non-existant ('BS_GA.1.bt2'). Please run bismark_genome_preparation before running Bismark
+The Bowtie 2 index of the G->A converted genome seems to be faulty or non-existant ('BS_GA.2.bt2'). Please run bismark_genome_preparation before running Bismark
+The Bowtie 2 index of the G->A converted genome seems to be faulty or non-existant ('BS_GA.3.bt2'). Please run bismark_genome_preparation before running Bismark
+The Bowtie 2 index of the G->A converted genome seems to be faulty or non-existant ('BS_GA.4.bt2'). Please run bismark_genome_preparation before running Bismark
+The Bowtie 2 index of the G->A converted genome seems to be faulty or non-existant ('BS_GA.rev.1.bt2'). Please run bismark_genome_preparation before running Bismark
+The Bowtie 2 index of the G->A converted genome seems to be faulty or non-existant ('BS_GA.rev.2.bt2'). Please run bismark_genome_preparation before running Bismark
+
+Couldn't find a traditional small Bowtie 2 index for the genome specified (ending in .bt2). Now searching for a large index instead (64-bit index ending in .bt2l)...
+64-bit large genome Bowtie 2 index found...
+FastQ format assumed (by default)
+
+Input files to be analysed (in current folder '/scratch/workspace/michael_olufemi_student_uml_edu-nanopore/space_omics/trimmed_data'):
+GLDS-48_M26_R1.fastq.gz
+GLDS-48_M26_R2.fastq.gz
+Library is assumed to be strand-specific (directional), alignments to strands complementary to the original top or bottom strands will be ignored (i.e. not performed!)
+Output will be written into the directory: /scratch/workspace/michael_olufemi_student_uml_edu-nanopore/space_omics/mapping/
+Setting parallelization to single-threaded (default)
+
+Summary of all aligner options:	-q --score-min L,0,-0.2 --ignore-quals --no-mixed --no-discordant --dovetail --maxins 500
+Current working directory is: /scratch/workspace/michael_olufemi_student_uml_edu-nanopore/space_omics/trimmed_data
+
+Now reading in and storing sequence information of the genome specified in: /scratch/workspace/michael_olufemi_student_uml_edu-nanopore/space_omics/ref_genome/
+
+chr 1 (195471971 bp)
+chr 2 (182113224 bp)
+chr 3 (160039680 bp)
+chr 4 (156508116 bp)
+chr 5 (151834684 bp)
+chr 6 (149736546 bp)
+chr 7 (145441459 bp)
+chr 8 (129401213 bp)
+chr 9 (124595110 bp)
+chr 10 (130694993 bp)
+chr 11 (122082543 bp)
+chr 12 (120129022 bp)
+chr 13 (120421639 bp)
+chr 14 (124902244 bp)
+chr 15 (104043685 bp)
+chr 16 (98207768 bp)
+chr 17 (94987271 bp)
+chr 18 (90702639 bp)
+chr 19 (61431566 bp)
+chr X (171031299 bp)
+chr Y (91744698 bp)
+chr MT (16299 bp)
+chr CHR_MG171_PATCH (151834685 bp)
+chr CHR_MG4222_MG3908_PATCH (94987243 bp)
+chr CHR_MG51_PATCH (156507375 bp)
+chr CHR_MG3496_PATCH (195440828 bp)
+chr CHR_MG4200_PATCH (94983374 bp)
+chr CHR_MG4243_PATCH (156484188 bp)
+chr CHR_MG4209_PATCH (91793962 bp)
+chr CHR_MG74_PATCH (104052134 bp)
+chr CHR_MG4310_MG4311_PATCH (156656003 bp)
+chr CHR_MG4249_PATCH (61433356 bp)
+chr CHR_MG3833_MG4220_PATCH (98208654 bp)
+chr CHR_MG3231_PATCH (171029545 bp)
+chr CHR_MG4151_PATCH (145439975 bp)
+chr CHR_MG104_PATCH (170913546 bp)
+chr CHR_MMCHR1_CHORI29_IDD5_1 (195506435 bp)
+chr CHR_MG3700_PATCH (90658154 bp)
+chr CHR_MG3530_PATCH (130695022 bp)
+chr CHR_MG4261_PATCH (103906836 bp)
+chr CHR_MG3251_PATCH (145419646 bp)
+chr CHR_MG3562_PATCH (156470354 bp)
+chr CHR_CAST_EI_MMCHR11_CTG4 (122190308 bp)
+chr CHR_WSB_EIJ_MMCHR11_CTG2 (122242168 bp)
+chr CHR_PWK_PHJ_MMCHR11_CTG2 (122246885 bp)
+chr CHR_MG3648_PATCH (104165524 bp)
+chr CHR_MG3618_PATCH (156477076 bp)
+chr CHR_CAST_EI_MMCHR11_CTG5 (122035401 bp)
+chr CHR_PWK_PHJ_MMCHR11_CTG3 (122032376 bp)
+chr CHR_MG4136_PATCH (156508116 bp)
+chr CHR_MG4138_PATCH (130620757 bp)
+chr CHR_MG3835_PATCH (90835696 bp)
+chr CHR_MG89_PATCH (159939961 bp)
+chr CHR_MG4213_PATCH (91736668 bp)
+chr CHR_MG3829_PATCH (122082543 bp)
+chr CHR_MG209_PATCH (94987270 bp)
+chr CHR_WSB_EIJ_MMCHR11_CTG3 (122041104 bp)
+chr CHR_MG4308_PATCH (122082543 bp)
+chr CHR_MG3609_PATCH (156568640 bp)
+chr CHR_MG4180_PATCH (120129530 bp)
+chr CHR_MG3686_PATCH (170897390 bp)
+chr CHR_MG65_PATCH (61442615 bp)
+chr CHR_MG3627_PATCH (124903046 bp)
+chr CHR_MG3999_PATCH (195424274 bp)
+chr CHR_MG3699_PATCH (90657263 bp)
+chr CHR_MG4254_PATCH (171079788 bp)
+chr CHR_MG4198_PATCH (94938704 bp)
+chr CHR_MG153_PATCH (61431565 bp)
+chr CHR_MG3656_PATCH (170985484 bp)
+chr CHR_MG4211_PATCH (91797447 bp)
+chr CHR_MG4255_PATCH (171051513 bp)
+chr CHR_WSB_EIJ_MMCHR11_CTG1 (122025577 bp)
+chr CHR_MG4248_PATCH (160065929 bp)
+chr CHR_MG4288_PATCH (104043690 bp)
+chr CHR_MG132_PATCH (124595140 bp)
+chr CHR_MG4212_PATCH (151862668 bp)
+chr CHR_MG4214_PATCH (170938523 bp)
+chr CHR_MG4281_PATCH (195471970 bp)
+chr CHR_MG191_PATCH (182113225 bp)
+chr CHR_MG4266_PATCH (156460002 bp)
+chr CHR_PWK_PHJ_MMCHR11_CTG1 (121996417 bp)
+chr CHR_MG3561_PATCH (156464115 bp)
+chr CHR_MG190_MG3751_PATCH (129401208 bp)
+chr CHR_MG3712_PATCH (159992652 bp)
+chr CHR_MG3836_PATCH (182124663 bp)
+chr CHR_MG4259_PATCH (104073167 bp)
+chr CHR_MG3683_PATCH (170944389 bp)
+chr CHR_MG184_PATCH (149736545 bp)
+chr CHR_MG4264_PATCH (130719490 bp)
+chr CHR_MG117_PATCH (124546979 bp)
+chr CHR_MG3714_PATCH (159951792 bp)
+chr CHR_MG3490_PATCH (120126208 bp)
+chr CHR_MG3172_PATCH (145409378 bp)
+chr CHR_MG4162_PATCH (124852600 bp)
+chr CHR_MG4265_PATCH (156510038 bp)
+chr JH584299.1 (953012 bp)
+chr GL456233.1 (336933 bp)
+chr JH584301.1 (259875 bp)
+chr GL456211.1 (241735 bp)
+chr GL456350.1 (227966 bp)
+chr JH584293.1 (207968 bp)
+chr GL456221.1 (206961 bp)
+chr JH584297.1 (205776 bp)
+chr JH584296.1 (199368 bp)
+chr GL456354.1 (195993 bp)
+chr JH584294.1 (191905 bp)
+chr JH584298.1 (184189 bp)
+chr JH584300.1 (182347 bp)
+chr GL456219.1 (175968 bp)
+chr GL456210.1 (169725 bp)
+chr JH584303.1 (158099 bp)
+chr JH584302.1 (155838 bp)
+chr GL456212.1 (153618 bp)
+chr JH584304.1 (114452 bp)
+chr GL456379.1 (72385 bp)
+chr GL456216.1 (66673 bp)
+chr GL456393.1 (55711 bp)
+chr GL456366.1 (47073 bp)
+chr GL456367.1 (42057 bp)
+chr GL456239.1 (40056 bp)
+chr GL456213.1 (39340 bp)
+chr GL456383.1 (38659 bp)
+chr GL456385.1 (35240 bp)
+chr GL456360.1 (31704 bp)
+chr GL456378.1 (31602 bp)
+chr GL456389.1 (28772 bp)
+chr GL456372.1 (28664 bp)
+chr GL456370.1 (26764 bp)
+chr GL456381.1 (25871 bp)
+chr GL456387.1 (24685 bp)
+chr GL456390.1 (24668 bp)
+chr GL456394.1 (24323 bp)
+chr GL456392.1 (23629 bp)
+chr GL456382.1 (23158 bp)
+chr GL456359.1 (22974 bp)
+chr GL456396.1 (21240 bp)
+chr GL456368.1 (20208 bp)
+chr JH584292.1 (14945 bp)
+chr JH584295.1 (1976 bp)
+
+Single-core mode: setting pid to 1
+
+Paired-end alignments will be performed
+=======================================
+
+The provided filenames for paired-end alignments are GLDS-48_M26_R1.fastq.gz and GLDS-48_M26_R2.fastq.gz
+Input files are in FastQ format
+Writing a C -> T converted version of the input file GLDS-48_M26_R1.fastq.gz to GLDS-48_M26_R1.fastq.gz_C_to_T.fastq
+
+Created C -> T converted version of the FastQ file GLDS-48_M26_R1.fastq.gz (183681332 sequences in total)
+
+Writing a G -> A converted version of the input file GLDS-48_M26_R2.fastq.gz to GLDS-48_M26_R2.fastq.gz_G_to_A.fastq
+
+Created G -> A converted version of the FastQ file GLDS-48_M26_R2.fastq.gz (183681332 sequences in total)
+
+Input files are GLDS-48_M26_R1.fastq.gz_C_to_T.fastq and GLDS-48_M26_R2.fastq.gz_G_to_A.fastq (FastQ)
+Now running 2 instances of Bowtie 2 against the bisulfite genome of /scratch/workspace/michael_olufemi_student_uml_edu-nanopore/space_omics/ref_genome/ with the specified options: -q --score-min L,0,-0.2 --ignore-quals --no-mixed --no-discordant --dovetail --maxins 500
+
+Now starting a Bowtie 2 paired-end alignment for CTread1GAread2CTgenome (reading in sequences from GLDS-48_M26_R1.fastq.gz_C_to_T.fastq and GLDS-48_M26_R2.fastq.gz_G_to_A.fastq, with the options: -q --score-min L,0,-0.2 --ignore-quals --no-mixed --no-discordant --dovetail --maxins 500 --norc))
+Found first alignment:
+J00113:56:H3W7MBBXX:1:1101:31852:1261_1:N:0:NCAGTG/1	77	*	0	0	*	*	0	0	GTAATGTTTTTATTTTTAGTTTTGATTTTATTAATTTGGATATTGTTTTTGTGTGTTTGGTTTAGNTGGGTTAAGGGGTGATTTNTTTTGTTGANTTTTT	A-A-AA-A<JJJA-J--<<JJFAJJ--AFFJFJA<<--F7<--FFJJJJJJ---F-FA7FF-F-<#<7<-<7FJA-<----<-7#-<F-FAFF7#F-AF-	YT:Z:UP
+J00113:56:H3W7MBBXX:1:1101:31852:1261_2:N:0:NCAGTG/2	141	*	0	0	*	*	0	0	NAAAACTAAAAAAATCAACAAAATAAATAAACCCTTAACCAANCCAAACAAANAACACAANAANAATACCCANATNNAANNAATCANAACTNAANACNAA	#AAAAFFJA<AFJ--JAFJ7A<<FJ<---7FFF----<-<-F#--<-FA-7-#--AFJ--#AF#JFAJ-7<-#-F##--##-7-AA#--F-#--#--#--	YT:Z:UP
+Now starting a Bowtie 2 paired-end alignment for CTread1GAread2GAgenome (reading in sequences from GLDS-48_M26_R1.fastq.gz_C_to_T.fastq and GLDS-48_M26_R2.fastq.gz_G_to_A.fastq, with the options: -q --score-min L,0,-0.2 --ignore-quals --no-mixed --no-discordant --dovetail --maxins 500 --nofw))
+Found first alignment:
+J00113:56:H3W7MBBXX:1:1101:31852:1261_1:N:0:NCAGTG/1	77	*	0	0	*	*	0	0	GTAATGTTTTTATTTTTAGTTTTGATTTTATTAATTTGGATATTGTTTTTGTGTGTTTGGTTTAGNTGGGTTAAGGGGTGATTTNTTTTGTTGANTTTTT	A-A-AA-A<JJJA-J--<<JJFAJJ--AFFJFJA<<--F7<--FFJJJJJJ---F-FA7FF-F-<#<7<-<7FJA-<----<-7#-<F-FAFF7#F-AF-	YT:Z:UP
+J00113:56:H3W7MBBXX:1:1101:31852:1261_2:N:0:NCAGTG/2	141	*	0	0	*	*	0	0	NAAAACTAAAAAAATCAACAAAATAAATAAACCCTTAACCAANCCAAACAAANAACACAANAANAATACCCANATNNAANNAATCANAACTNAANACNAA	#AAAAFFJA<AFJ--JAFJ7A<<FJ<---7FFF----<-<-F#--<-FA-7-#--AFJ--#AF#JFAJ-7<-#-F##--##-7-AA#--F-#--#--#--	YT:Z:UP
+
+>>> Writing bisulfite mapping results to GLDS-48_M26_R1_bismark_bt2_pe.bam <<<
+
+
+Reading in the sequence files GLDS-48_M26_R1.fastq.gz and GLDS-48_M26_R2.fastq.gz
+Processed 1000000 sequence pairs so far
+Processed 2000000 sequence pairs so far
+Processed 3000000 sequence pairs so far
+Processed 4000000 sequence pairs so far
+Processed 5000000 sequence pairs so far
+Processed 6000000 sequence pairs so far
+Processed 7000000 sequence pairs so far
+Processed 8000000 sequence pairs so far
+Processed 9000000 sequence pairs so far
+Processed 10000000 sequence pairs so far
+Processed 11000000 sequence pairs so far
+Processed 12000000 sequence pairs so far
+Processed 13000000 sequence pairs so far
+Processed 14000000 sequence pairs so far
+Processed 15000000 sequence pairs so far
+Processed 16000000 sequence pairs so far
+Processed 17000000 sequence pairs so far
+Processed 18000000 sequence pairs so far
+Processed 19000000 sequence pairs so far
+Processed 20000000 sequence pairs so far
+Processed 21000000 sequence pairs so far
+Processed 22000000 sequence pairs so far
+Processed 23000000 sequence pairs so far
+Processed 24000000 sequence pairs so far
+Processed 25000000 sequence pairs so far
+Processed 26000000 sequence pairs so far
+Processed 27000000 sequence pairs so far
+Processed 28000000 sequence pairs so far
+Processed 29000000 sequence pairs so far
+Processed 30000000 sequence pairs so far
+Processed 31000000 sequence pairs so far
+Processed 32000000 sequence pairs so far
+Processed 33000000 sequence pairs so far
+Processed 34000000 sequence pairs so far
+Processed 35000000 sequence pairs so far
+Processed 36000000 sequence pairs so far
+Processed 37000000 sequence pairs so far
+Processed 38000000 sequence pairs so far
+Processed 39000000 sequence pairs so far
+Processed 40000000 sequence pairs so far
+Processed 41000000 sequence pairs so far
+Processed 42000000 sequence pairs so far
+Processed 43000000 sequence pairs so far
+Processed 44000000 sequence pairs so far
+Processed 45000000 sequence pairs so far
+Processed 46000000 sequence pairs so far
+Processed 47000000 sequence pairs so far
+Processed 48000000 sequence pairs so far
+Processed 49000000 sequence pairs so far
+Processed 50000000 sequence pairs so far
+Processed 51000000 sequence pairs so far
+Processed 52000000 sequence pairs so far
+Processed 53000000 sequence pairs so far
+Processed 54000000 sequence pairs so far
+Processed 55000000 sequence pairs so far
+Processed 56000000 sequence pairs so far
+Processed 57000000 sequence pairs so far
+Processed 58000000 sequence pairs so far
+Processed 59000000 sequence pairs so far
+Processed 60000000 sequence pairs so far
+Processed 61000000 sequence pairs so far
+Processed 62000000 sequence pairs so far
+Processed 63000000 sequence pairs so far
+Processed 64000000 sequence pairs so far
+Processed 65000000 sequence pairs so far
+Processed 66000000 sequence pairs so far
+Processed 67000000 sequence pairs so far
+Processed 68000000 sequence pairs so far
+Processed 69000000 sequence pairs so far
+Processed 70000000 sequence pairs so far
+Processed 71000000 sequence pairs so far
+Processed 72000000 sequence pairs so far
+Processed 73000000 sequence pairs so far
+Processed 74000000 sequence pairs so far
+Processed 75000000 sequence pairs so far
+Processed 76000000 sequence pairs so far
+Processed 77000000 sequence pairs so far
+Processed 78000000 sequence pairs so far
+Processed 79000000 sequence pairs so far
+Processed 80000000 sequence pairs so far
+Processed 81000000 sequence pairs so far
+Processed 82000000 sequence pairs so far
+Processed 83000000 sequence pairs so far
+Processed 84000000 sequence pairs so far
+Processed 85000000 sequence pairs so far
+Processed 86000000 sequence pairs so far
+Processed 87000000 sequence pairs so far
+Processed 88000000 sequence pairs so far
+Processed 89000000 sequence pairs so far
+Processed 90000000 sequence pairs so far
+Processed 91000000 sequence pairs so far
+Processed 92000000 sequence pairs so far
+Processed 93000000 sequence pairs so far
+Processed 94000000 sequence pairs so far
+Processed 95000000 sequence pairs so far
+Processed 96000000 sequence pairs so far
+Processed 97000000 sequence pairs so far
+Processed 98000000 sequence pairs so far
+Processed 99000000 sequence pairs so far
+Processed 100000000 sequence pairs so far
+Processed 101000000 sequence pairs so far
+Processed 102000000 sequence pairs so far
+Processed 103000000 sequence pairs so far
+Processed 104000000 sequence pairs so far
+Processed 105000000 sequence pairs so far
+Processed 106000000 sequence pairs so far
+Processed 107000000 sequence pairs so far
+Processed 108000000 sequence pairs so far
+Processed 109000000 sequence pairs so far
+Processed 110000000 sequence pairs so far
+Processed 111000000 sequence pairs so far
+Processed 112000000 sequence pairs so far
+Processed 113000000 sequence pairs so far
+Processed 114000000 sequence pairs so far
+Processed 115000000 sequence pairs so far
+Processed 116000000 sequence pairs so far
+Processed 117000000 sequence pairs so far
+Processed 118000000 sequence pairs so far
+Processed 119000000 sequence pairs so far
+Processed 120000000 sequence pairs so far
+Processed 121000000 sequence pairs so far
+Processed 122000000 sequence pairs so far
+Processed 123000000 sequence pairs so far
+Processed 124000000 sequence pairs so far
+Processed 125000000 sequence pairs so far
+Processed 126000000 sequence pairs so far
+Processed 127000000 sequence pairs so far
+Processed 128000000 sequence pairs so far
+Processed 129000000 sequence pairs so far
+Processed 130000000 sequence pairs so far
+Processed 131000000 sequence pairs so far
+Processed 132000000 sequence pairs so far
+Processed 133000000 sequence pairs so far
+Processed 134000000 sequence pairs so far
+Processed 135000000 sequence pairs so far
+Processed 136000000 sequence pairs so far
+Processed 137000000 sequence pairs so far
+Processed 138000000 sequence pairs so far
+Processed 139000000 sequence pairs so far
+Processed 140000000 sequence pairs so far
+Processed 141000000 sequence pairs so far
+Processed 142000000 sequence pairs so far
+Processed 143000000 sequence pairs so far
+Processed 144000000 sequence pairs so far
+Processed 145000000 sequence pairs so far
+Processed 146000000 sequence pairs so far
+Processed 147000000 sequence pairs so far
+Processed 148000000 sequence pairs so far
+Processed 149000000 sequence pairs so far
+Processed 150000000 sequence pairs so far
+Processed 151000000 sequence pairs so far
+Processed 152000000 sequence pairs so far
+Processed 153000000 sequence pairs so far
+Processed 154000000 sequence pairs so far
+Processed 155000000 sequence pairs so far
+Processed 156000000 sequence pairs so far
+Processed 157000000 sequence pairs so far
+Processed 158000000 sequence pairs so far
+Processed 159000000 sequence pairs so far
+Processed 160000000 sequence pairs so far
+Processed 161000000 sequence pairs so far
+Processed 162000000 sequence pairs so far
+Processed 163000000 sequence pairs so far
+Processed 164000000 sequence pairs so far
+Processed 165000000 sequence pairs so far
+Processed 166000000 sequence pairs so far
+Processed 167000000 sequence pairs so far
+Processed 168000000 sequence pairs so far
+Processed 169000000 sequence pairs so far
+Processed 170000000 sequence pairs so far
+Processed 171000000 sequence pairs so far
+Processed 172000000 sequence pairs so far
+Processed 173000000 sequence pairs so far
+Processed 174000000 sequence pairs so far
+Processed 175000000 sequence pairs so far
+Processed 176000000 sequence pairs so far
+Processed 177000000 sequence pairs so far
+Processed 178000000 sequence pairs so far
+Processed 179000000 sequence pairs so far
+Processed 180000000 sequence pairs so far
+Processed 181000000 sequence pairs so far
+Processed 182000000 sequence pairs so far
+Processed 183000000 sequence pairs so far
+183681332 reads; of these:
+  183681332 (100.00%) were paired; of these:
+    115777176 (63.03%) aligned concordantly 0 times
+    56452141 (30.73%) aligned concordantly exactly 1 time
+    11452015 (6.23%) aligned concordantly >1 times
+36.97% overall alignment rate
+183681332 reads; of these:
+  183681332 (100.00%) were paired; of these:
+    115317115 (62.78%) aligned concordantly 0 times
+    56375143 (30.69%) aligned concordantly exactly 1 time
+    11989074 (6.53%) aligned concordantly >1 times
+37.22% overall alignment rate
+Processed 183681332 sequences in total
+
+
+Successfully deleted the temporary files GLDS-48_M26_R1.fastq.gz_C_to_T.fastq and GLDS-48_M26_R2.fastq.gz_G_to_A.fastq
+
+Final Alignment report
+======================
+Sequence pairs analysed in total:	183681332
+Number of paired-end alignments with a unique best hit:	115251553
+Mapping efficiency:	62.7%
+
+Sequence pairs with no alignments under any condition:	58827069
+Sequence pairs did not map uniquely:	9602710
+Sequence pairs which were discarded because genomic sequence could not be extracted:	0
+
+Number of sequence pairs with unique best (first) alignment came from the bowtie output:
+CT/GA/CT:	57798535	((converted) top strand)
+GA/CT/CT:	0	(complementary to (converted) top strand)
+GA/CT/GA:	0	(complementary to (converted) bottom strand)
+CT/GA/GA:	57453018	((converted) bottom strand)
+
+Number of alignments to (merely theoretical) complementary strands being rejected in total:	0
+
+Final Cytosine Methylation Report
+=================================
+Total number of C's analysed:	4684114116
+
+Total methylated C's in CpG context:	184105951
+Total methylated C's in CHG context:	25891777
+Total methylated C's in CHH context:	57330473
+Total methylated C's in Unknown context:	246192
+
+Total unmethylated C's in CpG context:	58941031
+Total unmethylated C's in CHG context:	1104764490
+Total unmethylated C's in CHH context:	3253080394
+Total unmethylated C's in Unknown context:	1505523
+
+C methylated in CpG context:	75.7%
+C methylated in CHG context:	2.3%
+C methylated in CHH context:	1.7%
+C methylated in Unknown context (CN or CHN):	14.1%
+
+
+Bismark completed in 0d 22h 35m 17s
+
+====================
+Bismark run complete
+====================
+
+unloading curl version 7.79.0
+unloading gzip version 1.12
+unloading libdeflate version 1.10
+unloading htslib version 1.9
+unloading libmd version 1.0.3
+unloading libbsd version 0.11.3
+unloading expat version 2.4.1
+unloading libxml2 version 2.9.12
+unloading libiconv version 1.16
+unloading tar version 1.34
+unloading xz version 5.2.5
+unloading gettext version 0.21
+unloading libffi version 3.3
+unloading openssl version 1.1.1l
+unloading sqlite version 3.36.0
+unloading util-linux-uuid version 2.36.2
+unloading python version 2.7.18
+unloading samtools version 1.9
+loading openssl version 1.1.1l
+loading curl version 7.79.0
+loading gzip version 1.12
+loading libdeflate version 1.10
+loading xz version 5.2.5
+loading htslib version 1.9
+loading libmd version 1.0.3
+loading libbsd version 0.11.3
+loading expat version 2.4.1
+loading libiconv version 1.16
+loading libxml2 version 2.9.12
+loading tar version 1.34
+loading gettext version 0.21
+loading libffi version 3.3
+loading sqlite version 3.36.0
+loading util-linux-uuid version 2.36.2
+loading python version 2.7.18
+loading samtools version 1.9
+-------------------------------------------------------------------------------
+The following dependent module(s) are not currently loaded: python/3.8.12 (required by: bowtie2/2.4.2+py3.8.12)
+-------------------------------------------------------------------------------
+Processing paired-end Bismark output file(s) (SAM format):
+GLDS-48_M26_bismark_bt2_pe.bam
+
+
+If there are several alignments to a single position in the genome the first alignment will be chosen. Since the input files are not in any way sorted this is a near-enough random selection of reads.
+
+Checking file >>GLDS-48_M26_bismark_bt2_pe.bam<< for signs of file truncation...
+Captured error message: '[E::hts_open_format] Failed to open file GLDS-48_M26_bismark_bt2_pe.bam'
+
+[ERROR] The file appears to be truncated, please ensure that there were no errors while copying the file!!! Exiting...
+
+
+ *** Bismark methylation extractor version v0.24.2 ***
+
+Trying to determine the type of mapping from the SAM header line of file GLDS-48_M26_bismark_bt2_pe.deduplicated.bam
+
+[FATAL ERROR]:	File >>GLDS-48_M26_bismark_bt2_pe.deduplicated.bam<< did not exist. Please re-specify file names and try again...
+
+Bismark mapping and methylation extraction complete!

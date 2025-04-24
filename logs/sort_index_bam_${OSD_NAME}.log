@@ -1,0 +1,613 @@
+Loading bzip2 version 1.0.8
+Loading curl version 8.5.0
+Loading gzip version 1.13
+Loading zlib-ng version 2.1.6
+Loading libdeflate version 1.18
+Loading xz version 5.4.6
+Loading htslib version 1.19.1
+Loading ncurses version 6.5
+Loading perl version 5.38.2
+Loading libmd version 1.0.4
+Loading libbsd version 0.12.1
+Loading expat version 2.6.2
+Loading readline version 8.2
+Loading gdbm version 1.23
+Loading gettext version 0.21
+Loading libffi version 8.1.4
+Loading libxcrypt version 4.4.35
+Loading openssl version 3.0.13
+Loading sqlite version 3.43.2
+Loading util-linux-uuid version 2.38.1
+Loading python version 3.11.7
+Loading samtools version 1.19.2
+Processing directory: /scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output/OSD-666
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_FLT_F1_techrep1[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1
+LDS-525_rna-seq_RR23_Cb_FLT_F4
+Sorting BAM file for sample: GLDS-525_rna-seq_RR23_Cb_FLT_F5
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep1
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_FLT_F1_techrep1
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_FLT_F1_techrep1
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_FLT_F1_techrep1
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_FLT_F1_techrep2
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-525_rna-seq_RR23_Cb_FLT_F5
+Indexing BAM file for sample: GLDS-525_rna-seq_RR23_Cb_FLT_F5
+Indexing completed for GLDS-525_rna-seq_RR23_Cb_FLT_F5
+Sorting BAM file for sample: GLDS-525_rna-seq_RR23_Cb_FLT_F6
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_FLT_F1_techrep2
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_FLT_F1_techrep2
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_FLT_F1_techrep2
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_FLT_F2
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-525_rna-seq_RR23_Cb_FLT_F6
+Indexing BAM file for sample: GLDS-525_rna-seq_RR23_Cb_FLT_F6
+ADR_FLT_F1_techrep2
+Indexing completed for GLDS-525_rna-seq_RR23_Cb_FLT_F6
+_techrep2
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_FLT_F2
+Sorting BAM file for sample: GLDS-525_rna-seq_RR23_Cb_FLT_F7
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-525_rna-seq_RR23_Cb_FLT_F7
+Indexing BAM file for sample: GLDS-525_rna-seq_RR23_Cb_FLT_F7
+Indexing completed for GLDS-525_rna-seq_RR23_Cb_FLT_F7
+Sorting BAM file for sample: GLDS-525_rna-seq_RR23_Cb_FLT_F8
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_FLT_F3
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_FLT_FInIndexing completed for GLDS-515_rna-seq_RR23_TMS_FLT_F3
+ting BAM file for sample: GLDS-525_rna-seq_RR23_Cb_FLT_F9
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_FLT_F4
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-525_rna-seq_RR23_Cb_FLT_F9
+Indexing BAM file for sample: GLDS-525_rna-seq_RR23_Cb_FLT_F9
+4
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_FLT_F4
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_FLT_F5
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+AM file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G1_techrep1
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+BAM file for sample: GLDS-515_rna-seq_RR23_TMS_FLT_F5
+Sorting completed for GLDS-525_rna-seq_RR23_Cb_GC_G1_techrep1
+Indexing BAM file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G1_techrep1
+Indexing completed for GLDS-525_rna-seq_RR23_Cb_GC_G1_techrep1
+Sorting BAM file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G1_techrep2
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_FLT_F6_techrep1
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_FLT_F6_techrep1
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_FLT_F6_techrep2
+/var/spool/slurm/slurmd/job29941456/slurm_script: line 22: 335647 Killed                  samtools sort -m 3G --threads 32 -o "$SORTED_BAM" "$BAM_FILE"
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2
+[E::hts_open_format] Failed to open file "/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output_sorted/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_Aligned.sortedByCoord_sorted.out.bam" : No such file or directory
+samtools index: failed to open "/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output_sorted/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2_Aligned.sortedByCoord_sorted.out.bam": No such file or directory
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F1_techrep2
+Sorting completed for GLDS-525_rna-seq_RR23_Cb_GC_G1_techrep2
+Indexing BAM file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G1_techrep2
+file for sample: GLDS-512_rna-seq_RR23_ADR_FLT_F2
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_FLT_F2
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_FLT_F3
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+orting BAM file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G2
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_FLT_F2
+Sorting completed for GLDS-525_rna-seq_RR23_Cb_GC_G2
+Indexing BAM file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G2
+_FLT_F3
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_FLT_F2
+ng BAM file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G3
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_FLT_F3
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-525_rna-seq_RR23_Cb_GC_G3
+Indexing BAM file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G3
+ad_FLT_F3
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_FLT_F3
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_FLT_F4
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_Sorting BAM file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G4
+_FLT_F3
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F3
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F4
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-525_rna-seq_RR23_Cb_GC_G4
+Indexing BAM file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G4
+Indexing completed for GLDS-525_rna-seq_RR23_Cb_GC_G4
+Sorting BAM file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G5
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F4
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F4
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F4
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F5
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+M file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G5
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+M file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G6
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+BAM file for sample: GLDS-512_rna-seq_RR23_ADR_FLT_F3
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_FLT_F6_techrep2
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_FLT_F6_techrep2
+Sorting completed for GLDS-525_rna-seq_RR23_Cb_GC_G6
+Indexing BAM file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G6
+3_TMS_FLT_F7
+Indexing completed for GLDS-525_rna-seq_RR23_Cb_GC_G6
+Sorting BAM file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G7
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-525_rna-seq_RR23_Cb_GC_G7
+Indexing BAM file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G7
+Indexing completed for GLDS-525_rna-seq_RR23_Cb_GC_G7
+Sorting BAM file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G8
+                                                                [bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-525_rna-seq_RR23_Cb_GC_G8
+Indexing BAM file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G8
+                                                                      Indexing completed for GLDS-525_rna-seq_RR23_Cb_GC_G8
+Sorting BAM file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G9
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-525_rna-seq_RR23_Cb_GC_G9
+Indexing BAM file for sample: GLDS-525_rna-seq_RR23_Cb_GC_G9
+_FLT_F5
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_FLTSortSorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F6
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-525_rna-seq_RR23_Cb_VIV_V1
+Indexing BAM file for sample: GLDS-525_rna-seq_RR23_Cb_VIV_V1
+LT_F6
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F6
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F7
+Indexing completed for GLDS-525_rna-seq_RR23_Cb_VIV_V1
+Sorting BAM file for sample: GLDS-525_rna-seq_RR23_Cb_VIV_V2
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_FLT_F4
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_FLT_F4
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_FLT_F4
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_FLT_F5
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+AM file for sample: GLDS-525_rna-seq_RR23_Cb_VIV_V2
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_FLT_F5
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_FLT_F5
+completed for GLDS-515_rna-seq_RR23_TMS_FLT_F7
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_FLT_F7
+_F7
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_FLT_F5
+orting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F8
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_FLT_F6
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-525_rna-seq_RR23_Cb_VIV_V3
+Indexing BSorting completed for GLDS-605_rna-seq_RR23_R-Quad_FLT_F6
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_FLT_F6
+d                  samtools sort -m 3G --threads 32 -o "$SORTED_BAM" "$BAM_FILE"
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_FLT_F8
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_FLT_F8
+[E::hts_open_format] Failed to open file "/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output_sorted/OSD-515/GLDS-515_rna-seq_RR23_TMS_FLT_F8_Aligned.sortedByCoord_sorted.out.bam" : No such file or directory
+samtools index: failed to open "/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output_sorted/OSD-515/GLDS-515_rna-seq_RR23_TMS_FLT_F8_Aligned.sortedByCoord_sorted.out.bam": No such file or directory
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_FLT_F8
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_FLT_F9
+Sorting BAM file for sample: GLDS-525_rna-seq_RR23_Cb_VIV_V5_techrep1
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+ng BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_FLT_F7
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_FLT_F9
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_FLT_F9
+VIV_V5_techrep1
+Indexing completed for GLDS-525_rna-seq_RR23_Cb_VIV_V5_techrep1
+Sorting BAM file for sample: GLDS-525_rna-seq_RR23_Cb_VISorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_G1_techrep1
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_GC_G1_techrep1
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_G1_techrep1
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_GC_G1_techrep1
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_G1_techrep2
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+ndexing BAM file for sample: GLDS-525_rna-seq_RR23_Cb_VIV_V5_techrep2
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting BAM file for sample: GLDS-525_rna-seq_RR23_Cb_VIV_V6
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_GC_G1_techrep2
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_G1_techrep2
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_GC_G1_techrep2
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_G2
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+BAM file for sample: GLDS-512_rna-seq_RR23_ADR_FLT_F5
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_FLT_F5
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_FLT_F6
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_GC_G2
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_G2
+Indexing completed for GLDS-525_rna-seq_RR23_Cb_VIV_V6
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+exing completed for GLDS-515_rna-seq_RR23_TMS_GC_G2
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_G3
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+BAM file for sample: GLDS-512_rna-seq_RR23_ADR_FLT_F6
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+BAM file for sample: GLDS-512_rna-seq_RR23_ADR_FLT_F7
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_FLT_F7
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_FLT_F7
+ completed for GLDS-525_rna-seq_RR23_Cb_VIV_V7
+Sorting BAM file for sample: GLDS-525_rna-seq_RR23_Cb_VIV_V8
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+AM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_GSorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_FLT_F8
+Sorting completed for GLDS-525_rna-seq_RR23_Cb_VIV_V8
+Indexing BAM file for sample: GLDS-525_rna-seq_RR23_Cb_VIV_V8
+7
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_FLT_F7
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_FLT_F8
+Indexing completed for GLDS-525_rna-seq_RR23_Cb_VIV_V8
+Sorting BAM file for sample: GLDS-525_rna-seq_RR23_Cb_VIV_V9
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-525_rna-seq_RR23_Cb_VIV_V9
+Indexing BAM file for sample: GLDS-525_rna-seq_RR23_Cb_VIV_V9
+Indexing completed for GLDS-525_rna-seq_RR23_Cb_VIV_V9
+Sorting and indexing completed for directory: OSD-525
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F8
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F8
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F8
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F9
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F9
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_FLT_F9
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_FLT_F9
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_FLT_F8
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_FLT_F8
+C_G1_techrep1
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep1
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+ng BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_FLT_F9
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G1_techrep2
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G2
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_GC_GSorting completed for GLDS-515_rna-seq_RR23_TMS_GC_G4
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_G4
+9
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G2
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G3
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_GC_G4
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_G5
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_GC_G5
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_G5
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_GC_G5
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_G6
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G3
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G3
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_FLT_F9
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_FLT_F9
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_FLT_F9
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_GC_G1_techrep1
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_FLT_F9
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_FLT_F9
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_FLT_F9
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G4
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G4
+_G1_techrep1
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G5
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+1
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_GC_G1_techrep1
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_GC_G1_techrep1
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_GC_G1_techrep2
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_GC_G1_techrep1
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_GC_G1_techrep1
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G5
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G5
+C_G1_techrep2
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G5
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G6
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G6
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G6
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G6
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G7
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_GC_G1_techrep2
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_GC_G1_techrep2
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_GC_G1_techrep2
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_GC_G2
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_GC_G6
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_G6
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_GC_G6
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_G7
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_GC_G7
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_G7
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_GC_G7
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_G8
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_GC_G8
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_G8
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_GC_G8
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_G9
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+ndexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_GC_G1_techrep2
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_GC_G1_techrep2
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_GC_G2
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_GC_G9
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_GC_G9
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_GC_G9
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V1_techrep1
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_VIV_V1_techrep1
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V1_techrep1
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_VIV_V1_techrep1
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V1_techrep2
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_GC_G2
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_GC_G2
+V_V1_techrep2
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_GC_G2
+chrep2
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V2
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_VIV_V2
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V2
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_VIV_V2
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V3
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_VIV_V3
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V3
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_VIV_V3
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V4
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_GC_G2
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_GC_G2
+_G7
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_VIV_V4
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V4
+8
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_GC_G2
+
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V5
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V5
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_VIV_V5
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V6
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_GC_G3
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_GC_G3
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_GC_G3
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_GC_G4
+/var/spool/slurm/slurmd/job29941453/slurm_script: line 22: 1109028 Killed                  samtools sort -m 3G --threads 32 -o "$SORTED_BAM" "$BAM_FILE"
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_VIV_V6
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V6
+[E::hts_open_format] Failed to open file "/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output_sorted/OSD-515/GLDS-515_rna-seq_RR23_TMS_VIV_V6_Aligned.sortedByCoord_sorted.out.bam" : No such file or directory
+samtools index: failed to open "/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output_sorted/OSD-515/GLDS-515_rna-seq_RR23_TMS_VIV_V6_Aligned.sortedByCoord_sorted.out.bam": No such file or directory
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_VIV_V6
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V7
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_VIV_V7
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V7
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_VIV_V7
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V8
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_GC_G3
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_GC_G3
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_GC_G3
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_GC_G4
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_GC_G4
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_GC_G4
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_GC_G4
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_GC_G5
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_VIV_V8
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V8
+8
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G8
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G9
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_VIV_V8
+Sorting BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V9
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_GC_G4
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_GC_G4
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_GC_G4
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_GC_G5
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-515_rna-seq_RR23_TMS_VIV_V9
+Indexing BAM file for sample: GLDS-515_rna-seq_RR23_TMS_VIV_V9
+Indexing completed for GLDS-515_rna-seq_RR23_TMS_VIV_V9
+Sorting and indexing completed for directory: OSD-515
+slurmstepd-cpu078: error: Detected 2 oom_kill events in StepId=29941453.batch. Some of the step tasks have been OOM Killed.
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_GC_G5
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_GC_G5
+GC_G5
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_GC_G5
+G5
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_GC_G6
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_GC_G6
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_GC_G6
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_GC_G6
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_GC_G6
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_GC_G7
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_GC_G6
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_GC_G6
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_GC_G6
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_GC_G7
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+/var/spool/slurm/slurmd/job29941456/slurm_script: line 22: 338537 Killed                  samtools sort -m 3G --threads 32 -o "$SORTED_BAM" "$BAM_FILE"
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G9
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_GC_G9
+[E::hts_open_format] Failed to open file "/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output_sorted/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G9_Aligned.sortedByCoord_sorted.out.bam" : No such file or directory
+samtools index: failed to open "/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output_sorted/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_GC_G9_Aligned.sortedByCoord_sorted.out.bam": No such file or directory
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_GC_G9
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_GC_G7
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_GC_G7
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_GC_G7
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_GC_G8
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_GC_G7
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_GC_G7
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_GC_G7
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_GC_G8
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_GC_G8
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_GC_G8
+L_VIV_V1_techrep1
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep1
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_GC_G8
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_GC_G9
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V1_techrep2
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V2
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+/var/spool/slurm/slurmd/job29941456/slurm_script: line 22: 339155 Killed                  samtools sort -m 3G --threads 32 -o "$SORTED_BAM" "$BAM_FILE"
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V2
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V2
+[E::hts_open_format] Failed to open file "/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output_sorted/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_Aligned.sortedByCoord_sorted.out.bam" : No such file or directory
+samtools index: failed to open "/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output_sorted/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V2_Aligned.sortedByCoord_sorted.out.bam": No such file or directory
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V2
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V3
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_GC_G8
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_GC_G8
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+AM file for sample: GLDS-512_rna-seq_RR23_ADR_GC_G9
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_GC_G9
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_GC_G9
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_GC_G9
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_VIV_V1
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V3
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V3
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V3
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V4
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_VIV_V1
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-QuadIndexing completed for GLDS-512_rna-seq_RR23_ADR_GC_G9
+Quad_VIV_V1
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_VIV_V2
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V1
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_VIV_V2
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_VIV_V2
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_VIV_V2
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_VIV_V3
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_VIV_V3
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_VIV_V3
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_VIV_V3
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_VIV_V4
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_VIV_V1
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V1
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_VIV_V1
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V2_techrep1
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V4
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V4
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V4
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V5
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_VIV_V4
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_VIV_V4
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_VIV_V4
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_VIV_V5
+/var/spool/slurm/slurmd/job29941452/slurm_script: line 22: 1783811 Killed                  samtools sort -m 3G --threads 32 -o "$SORTED_BAM" "$BAM_FILE"
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_VIV_V2_techrep1
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V2_techrep1
+[E::hts_open_format] Failed to open file "/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output_sorted/OSD-512/GLDS-512_rna-seq_RR23_ADR_VIV_V2_techrep1_Aligned.sortedByCoord_sorted.out.bam" : No such file or directory
+samtools index: failed to open "/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output_sorted/OSD-512/GLDS-512_rna-seq_RR23_ADR_VIV_V2_techrep1_Aligned.sortedByCoord_sorted.out.bam": No such file or directory
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_VIV_V2_techrep1
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V2_techrep2
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_VIV_V5
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_VIV_V5
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_VIV_V5
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_VIV_V6
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_VIV_V2_techrep2
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V2_techrep2
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_VIV_V2_techrep2
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V3
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V5
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V5
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V5
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V6
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_VIV_V3
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V3
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_VIV_V3
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V4
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V6
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V6
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V6
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V7
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_VIV_V6
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_VIV_V6
+dexing completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V7
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V8
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_VIV_V6
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_VIV_V7
+/var/spool/slurm/slurmd/job29941456/slurm_script: line 22: 340261 Killed                  samtools sort -m 3G --threads 32 -o "$SORTED_BAM" "$BAM_FILE"
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V8
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V8
+[E::hts_open_format] Failed to open file "/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output_sorted/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_Aligned.sortedByCoord_sorted.out.bam" : No such file or directory
+samtools index: failed to open "/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output_sorted/OSD-665/GLDS-604_rna-seq_RR23_R-EDL_VIV_V8_Aligned.sortedByCoord_sorted.out.bam": No such file or directory
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V8
+Sorting BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V9
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_VIV_V4
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V4
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_VIV_V4
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V5
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_VIV_V5
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V5
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V6
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_VIV_V7
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_VIV_V7
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_VIV_V7
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_Rne 22: 1786224 Killed                  samtools sort -m 3G --threads 32 -o "$SORTED_BAM" "$BAM_FILE"
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_VIV_V6
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V6
+[E::hts_open_format] Failed to open file "/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output_sorted/OSD-512/GLDS-512_rna-seq_RR23_ADR_VIV_V6_Aligned.sortedByCoord_sorted.out.bam" : No such file or directory
+samtools index: failed to open "/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output_sorted/OSD-512/GLDS-512_rna-seq_RR23_ADR_VIV_V6_Aligned.sortedByCoord_sorted.out.bam": No such file or directory
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_VIV_V6
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V7
+/var/spool/slurm/slurmd/job29941457/slurm_script: line 22: 3177800 Killed                  samtools sort -m 3G --threads 32 -o "$SORTED_BAM" "$BAM_FILE"
+Sorting completed for GLDS-605_rna-seq_RR23_R-Quad_VIV_V8
+Indexing BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_VIV_V8
+[E::hts_open_format] Failed to open file "/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output_sorted/OSD-666/GLDS-605_rna-seq_RR23_R-Quad_VIV_V8_Aligned.sortedByCoord_sorted.out.bam" : No such file or directory
+samtools index: failed to open "/scratch3/workspace/michael_olufemi_student_uml_edu-HERRO/space_omics/RNA_analysis/STAR_output_sorted/OSD-666/GLDS-605_rna-seq_RR23_R-Quad_VIV_V8_Aligned.sortedByCoord_sorted.out.bam": No such file or directory
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_VIV_V8
+Sorting BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_VIV_V9
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V9
+Indexing BAM file for sample: GLDS-604_rna-seq_RR23_R-EDL_VIV_V9
+Indexing completed for GLDS-604_rna-seq_RR23_R-EDL_VIV_V9
+Sorting and indexing completed for directory: OSD-665
+slurmstepd-cpu072: error: Detected 4 oom_kill events in StepId=29941456.batch. Some of the step tasks have been OOM Killed.
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+ng BAM file for sample: GLDS-605_rna-seq_RR23_R-Quad_VIV_V9
+Indexing completed for GLDS-605_rna-seq_RR23_R-Quad_VIV_V9
+Sorting and indexing completed for directory: OSD-666
+slurmstepd-cpu074: error: Detected 1 oom_kill event in StepId=29941457.batch. Some of the step tasks have been OOM Killed.
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_VIV_V7
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V7
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_VIV_V7
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V8
+[bam_sort_core] merging from 0 files and 32 in-memory blocks...
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_VIV_V8
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V8
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_VIV_V8
+Sorting BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V9
+[bam_sort_core] merging from 1 files and 32 in-memory blocks...
+Sorting completed for GLDS-512_rna-seq_RR23_ADR_VIV_V9
+Indexing BAM file for sample: GLDS-512_rna-seq_RR23_ADR_VIV_V9
+Indexing completed for GLDS-512_rna-seq_RR23_ADR_VIV_V9
+Sorting and indexing completed for directory: OSD-512
+slurmstepd-cpu058: error: Detected 2 oom_kill events in StepId=29941452.batch. Some of the step tasks have been OOM Killed.
